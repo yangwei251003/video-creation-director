@@ -1,0 +1,396 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "route_id": "ed7e7325-161e-4810-8c9c-87380100ae16",
+  "scope": "Two newly supplied tutorial videos; Vincent video handled by parent agent.",
+  "status": "Media acquired, full-audio ASR read, keyframes reviewed; continuous audiovisual viewing and tutorial project reproduction not performed.",
+  "totals": {
+    "videos": 2,
+    "asr_segments_read": 461,
+    "stills_visually_reviewed": 77,
+    "stills_ocr_processed": 62
+  },
+  "items": [
+    {
+      "key": "yanshuo",
+      "title": "Remotion实操教程：全流程拆解",
+      "author": "言说新事",
+      "author_verified_by": "public feed exact-ID metadata, matched against supplied short-link redirect",
+      "short_url": "https://v.douyin.com/hiDsH0G4ZeU/",
+      "canonical_url": "https://www.douyin.com/video/7697646551179381498",
+      "video_id": "7697646551179381498",
+      "acquisition": {
+        "method": "public feed exact-ID match",
+        "executor": "parent agent",
+        "credentials_used": false,
+        "recorded_at": "2026-10-28T06:24:58.312396+00:00",
+        "byte_count": 60342065,
+        "sha256": "fc95e93e20742b05d9073122ed5909424e73b342f12bb6043bb713e22df413f0"
+      },
+      "media": {
+        "duration_seconds": 966.25,
+        "width": 1024,
+        "height": 576,
+        "frame_rate": "30/1",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      },
+      "coverage": {
+        "full_audio_processed_by_asr": true,
+        "asr_type": "automatic_local_speech_recognition",
+        "asr_language": "zh",
+        "asr_model_snapshot": "536b0662742c02347bc0e980a01041f333bce120",
+        "asr_segment_count": 398,
+        "asr_input_duration_seconds": 966.252,
+        "asr_last_segment_end_seconds": 963.11,
+        "asr_json_sha256": "9806637d966d81388e1792238235b695b4ffdb72c8eb6233ff11b1c9cb3545df",
+        "all_asr_segments_read_by_agent": true,
+        "asr_corrections": "technical names corrected in own summaries only when supported by actual frames; raw transcript not rewritten",
+        "visually_reviewed_still_count": 65,
+        "review_method": "contact sheets for timeline samples plus full-resolution targeted stills",
+        "sample_times_seconds": [
+          0.0,
+          10.0,
+          30.0,
+          50.0,
+          70.0,
+          90.0,
+          110.0,
+          130.0,
+          150.0,
+          170.0,
+          190.0,
+          210.0,
+          230.0,
+          239.0,
+          250.0,
+          270.0,
+          283.0,
+          290.0,
+          298.0,
+          310.0,
+          319.0,
+          330.0,
+          350.0,
+          370.0,
+          390.0,
+          410.0,
+          430.0,
+          450.0,
+          460.0,
+          470.0,
+          476.0,
+          490.0,
+          500.0,
+          510.0,
+          530.0,
+          550.0,
+          558.0,
+          570.0,
+          590.0,
+          610.0,
+          630.0,
+          650.0,
+          661.0,
+          670.0,
+          690.0,
+          710.0,
+          730.0,
+          750.0,
+          770.0,
+          790.0,
+          801.0,
+          810.0,
+          819.0,
+          830.0,
+          850.0,
+          870.0,
+          890.0,
+          901.0,
+          910.0,
+          916.0,
+          930.0,
+          939.0,
+          950.0,
+          959.0,
+          965.25
+        ],
+        "ocr_sample_count": 50,
+        "continuous_audiovisual_playback_review": false,
+        "subjective_audio_quality_review": false,
+        "tutorial_project_reproduced": false,
+        "tutorial_code_rendered": false,
+        "sampling_is_not_complete_watching": true
+      },
+      "license": {
+        "original_video_open_license_found": false,
+        "redistribution_status": "No open redistribution permission verified; source videos, full ASR and frames retained for private analysis only."
+      },
+      "private_evidence_paths": [
+        ".research-sources/tutorials/yanshuo/source-info.json",
+        ".research-sources/tutorials/yanshuo/source.mp4",
+        ".research-sources/tutorials/yanshuo/transcript.json",
+        ".research-sources/tutorials/yanshuo-frames/frame-manifest.json",
+        ".research-sources/tutorials/yanshuo-targeted/frame-manifest.json"
+      ],
+      "chapters": [
+        {
+          "start_seconds": 44.36,
+          "end_seconds": 129.98,
+          "summary": "Generative video versus deterministic animation and reusable code"
+        },
+        {
+          "start_seconds": 131.44,
+          "end_seconds": 257.23,
+          "summary": "Model capability, template reuse and runtime environment experience"
+        },
+        {
+          "start_seconds": 257.23,
+          "end_seconds": 415.69,
+          "summary": "Official skills, environment, persistent project, dependencies and image assets"
+        },
+        {
+          "start_seconds": 417.45,
+          "end_seconds": 957.71,
+          "summary": "Reference-led asset acquisition, template iteration, editable parameters, collage, hand drawing, no-reference design, map data, alpha delivery"
+        }
+      ],
+      "key_evidence": [
+        {
+          "seconds": [
+            298,
+            310,
+            319,
+            330
+          ],
+          "finding": "Persistent animation project, centralized dependencies, isolated animation folders"
+        },
+        {
+          "seconds": [
+            460,
+            476
+          ],
+          "finding": "Ask what structured assets are required, then find and download score/MIDI/audio"
+        },
+        {
+          "seconds": [
+            630,
+            650,
+            661
+          ],
+          "finding": "Editable composition/motion parameters and a recoverable version before changes",
+          "example_values": {
+            "mapScale": 0.82,
+            "tilt_degrees": 38,
+            "popupOpacity": 0.86,
+            "pushAt_seconds": 2.4
+          }
+        },
+        {
+          "seconds": [
+            710,
+            730
+          ],
+          "finding": "Prepare transparent collage assets before animation"
+        },
+        {
+          "seconds": [
+            750,
+            790,
+            810,
+            819
+          ],
+          "finding": "SVG for simple strokes; semantic masks or redesigned art for complex paths"
+        },
+        {
+          "seconds": [
+            930
+          ],
+          "finding": "Separate API fetching from rendering, cache validated map data locally, keep secrets out of published code"
+        },
+        {
+          "seconds": [
+            939,
+            950
+          ],
+          "finding": "Declare alpha deliverable early; author warns of edge/aliasing problems in PPT with shadows or partial transparency"
+        }
+      ],
+      "integration_cautions": [
+        "Do not generalize author model/Agent rankings or informal quota statistics.",
+        "Do not build a workbench before the workflow is stable.",
+        "Keep template version compatibility when sharing dependencies.",
+        "Map quotas, asset licenses and target-player alpha support still need project-specific verification."
+      ]
+    },
+    {
+      "key": "xiaofeng",
+      "title": "Vibe知识大赏保姆级教程：四步制作方法",
+      "author": "小冯不意why",
+      "author_verified_by": "public feed exact-ID metadata, matched against supplied short-link redirect",
+      "short_url": "https://v.douyin.com/a-2SCmCKRwk/",
+      "canonical_url": "https://www.douyin.com/video/7696040551015025929",
+      "video_id": "7696040551015025929",
+      "acquisition": {
+        "method": "public feed exact-ID match",
+        "executor": "parent agent",
+        "credentials_used": false,
+        "recorded_at": "2026-10-28T06:24:57.756500+00:00",
+        "byte_count": 9566239,
+        "sha256": "565112ef75fed241405684f67355f9a5525a6dd77f5fe7d6534896e68ad99946"
+      },
+      "media": {
+        "duration_seconds": 205.055986,
+        "width": 768,
+        "height": 576,
+        "frame_rate": "30/1",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      },
+      "coverage": {
+        "full_audio_processed_by_asr": true,
+        "asr_type": "automatic_local_speech_recognition",
+        "asr_language": "zh",
+        "asr_model_snapshot": "536b0662742c02347bc0e980a01041f333bce120",
+        "asr_segment_count": 63,
+        "asr_input_duration_seconds": 205.078625,
+        "asr_last_segment_end_seconds": 201.92,
+        "asr_json_sha256": "993a9e855ff4ab975b6125bfa9071357add8f606022cecbe19eaf38dbf73a697",
+        "all_asr_segments_read_by_agent": true,
+        "asr_corrections": "technical names corrected in own summaries only when supported by actual frames; raw transcript not rewritten",
+        "visually_reviewed_still_count": 12,
+        "review_method": "contact sheets for timeline samples plus full-resolution targeted stills",
+        "sample_times_seconds": [
+          0.0,
+          10.0,
+          30.0,
+          50.0,
+          70.0,
+          90.0,
+          110.0,
+          130.0,
+          150.0,
+          170.0,
+          190.0,
+          204.055986
+        ],
+        "ocr_sample_count": 12,
+        "continuous_audiovisual_playback_review": false,
+        "subjective_audio_quality_review": false,
+        "tutorial_project_reproduced": false,
+        "tutorial_code_rendered": false,
+        "sampling_is_not_complete_watching": true
+      },
+      "license": {
+        "original_video_open_license_found": false,
+        "redistribution_status": "No open redistribution permission verified; source videos, full ASR and frames retained for private analysis only."
+      },
+      "private_evidence_paths": [
+        ".research-sources/tutorials/xiaofeng/source-info.json",
+        ".research-sources/tutorials/xiaofeng/source.mp4",
+        ".research-sources/tutorials/xiaofeng/transcript.json",
+        ".research-sources/tutorials/xiaofeng-frames/frame-manifest.json"
+      ],
+      "example_output_spec": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "subtitles": "Chinese",
+        "narration": false,
+        "music": "preselected local track",
+        "evidence_frame_seconds": 204.055986,
+        "note": "This is the example target, not the tutorial recording format."
+      },
+      "chapters": [
+        {
+          "start_seconds": 28.1,
+          "end_seconds": 44.04,
+          "summary": "Code and storyboard explanation",
+          "evidence": [
+            "ASR",
+            "30s frame"
+          ]
+        },
+        {
+          "start_seconds": 44.04,
+          "end_seconds": 74.1,
+          "summary": "Set knowledge topic and output specification",
+          "evidence": [
+            "ASR",
+            "70s frame",
+            "204.056s full prompt card"
+          ]
+        },
+        {
+          "start_seconds": 77.26,
+          "end_seconds": 107.98,
+          "summary": "Analyze music tempo and strong-beat timing before arranging changes",
+          "evidence": [
+            "ASR",
+            "90s and 110s frames",
+            "204.056s card"
+          ]
+        },
+        {
+          "start_seconds": 112.74,
+          "end_seconds": 138.78,
+          "summary": "Synthesize sound for key actions and select fitting instrument timbres",
+          "evidence": [
+            "ASR",
+            "130s frame",
+            "204.056s card"
+          ]
+        },
+        {
+          "start_seconds": 138.78,
+          "end_seconds": 160.64,
+          "summary": "Make initial ten-second pilot and continue in sections, revising weak sections",
+          "evidence": [
+            "ASR",
+            "150s frame",
+            "204.056s card"
+          ]
+        },
+        {
+          "start_seconds": 161.12,
+          "end_seconds": 192.74,
+          "summary": "Author model preference and sub-five-yuan cost claim; not independently validated",
+          "evidence": [
+            "ASR",
+            "170s and 190s frames"
+          ]
+        }
+      ],
+      "integration_cautions": [
+        "Keep author requested approval distinct from current user authorization: internal pilot QA then auto-continue for direct-production tasks.",
+        "Do not require every beat to trigger a transition.",
+        "Do not impose landscape, 30fps or no narration on all videos.",
+        "Do not treat cost or model preference as a general guarantee."
+      ]
+    }
+  ],
+  "verified_optional_reference": {
+    "url": "https://github.com/geeklee/srt-whiteboard-animation",
+    "release_url": "https://github.com/geeklee/srt-whiteboard-animation/releases",
+    "release_tag": "v1.0.0",
+    "release_commit_short": "696a724",
+    "license_as_stated_by_original_readme": "MIT",
+    "evidence_video": "yanshuo",
+    "evidence_seconds": 819,
+    "installed": false,
+    "rendered": false,
+    "scope": "Public description checked only; not a full repository code review."
+  },
+  "public_artifacts": [
+    "research/tutorials/report.md",
+    "research/tutorials/integration-notes.md",
+    "research/tutorials/inventory.json"
+  ],
+  "private_only": [
+    "original video files",
+    "full ASR transcripts",
+    "sampled frames and OCR",
+    "acquisition logs"
+  ]
+}

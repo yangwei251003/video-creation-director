@@ -1,0 +1,62 @@
+{
+  "script_sha256": "cfad9023f0a98a7ad4773b9ff699517001ea394426a783fde82a83e321906e17",
+  "tests": 20,
+  "failures": [
+    {
+      "test": "test_capture_released_on_failure (__main__.ReaderTests.test_capture_released_on_failure)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 138, in test_capture_released_on_failure\n    self.assertTrue(cap.released)\nAssertionError: False is not true\n"
+    },
+    {
+      "test": "test_cdn_is_not_share_entry (__main__.ReaderTests.test_cdn_is_not_share_entry)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 77, in test_cdn_is_not_share_entry\n    self.assertRejected(lambda:reader.resolve('https://v1.douyinvod.com/video/123'))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    },
+    {
+      "test": "test_combined_sample_limit (__main__.ReaderTests.test_combined_sample_limit)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 124, in test_combined_sample_limit\n    self.assertRejected(lambda:reader.inspect_frames(Path('fixture.mp4'),self.out,120,[i+.123 for i in range(120)],False))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    },
+    {
+      "test": "test_empty_username_password_rejected (__main__.ReaderTests.test_empty_username_password_rejected)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 66, in test_empty_username_password_rejected\n    self.assertFalse(reader.allowed('https://:secret@douyin.com/video/123'))\nAssertionError: True is not false\n"
+    },
+    {
+      "test": "test_partial_digit_path_rejected (__main__.ReaderTests.test_partial_digit_path_rejected)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 75, in test_partial_digit_path_rejected\n    self.assertRejected(lambda:reader.resolve('https://www.douyin.com/video/123abc'))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    },
+    {
+      "test": "test_query_id_not_video_identity (__main__.ReaderTests.test_query_id_not_video_identity)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 72, in test_query_id_not_video_identity\n    self.assertRejected(lambda:reader.resolve('https://www.douyin.com/search?redirect=/video/123'))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    },
+    {
+      "test": "test_request_final_domain_rechecked (__main__.ReaderTests.test_request_final_domain_rechecked)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 89, in test_request_final_domain_rechecked\n    self.assertRejected(lambda:reader.request('https://www.douyin.com/a'))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    },
+    {
+      "test": "test_sample_names_do_not_collide (__main__.ReaderTests.test_sample_names_do_not_collide)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 129, in test_sample_names_do_not_collide\n    self.assertEqual(len({x['file'] for x in data['frames']}),2)\nAssertionError: 1 != 2\n"
+    },
+    {
+      "test": "test_short_redirect_external_rejected (__main__.ReaderTests.test_short_redirect_external_rejected)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 83, in test_short_redirect_external_rejected\n    self.assertRejected(lambda:reader.resolve('https://v.douyin.com/abc/'))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ValueError not raised\n"
+    }
+  ],
+  "errors": [
+    {
+      "test": "test_cache_bad_hash_rejected_before_network (__main__.ReaderTests.test_cache_bad_hash_rejected_before_network)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 110, in test_cache_bad_hash_rejected_before_network\n    self.assertRejected(lambda:reader.acquire('123',self.out,1))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n                                        ^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 110, in <lambda>\n    self.assertRejected(lambda:reader.acquire('123',self.out,1))\n                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\skill\\scripts\\read_douyin.py\", line 60, in acquire\n    raw,_=request(endpoint)\n          ^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1137, in __call__\n    return self._mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1141, in _mock_call\n    return self._execute_mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1196, in _execute_mock_call\n    raise effect\nRuntimeError: NETWORK_FORBIDDEN\n"
+    },
+    {
+      "test": "test_cache_reuses_offline (__main__.ReaderTests.test_cache_reuses_offline)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 105, in test_cache_reuses_offline\n    media,info=reader.acquire('123',self.out,1)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\skill\\scripts\\read_douyin.py\", line 60, in acquire\n    raw,_=request(endpoint)\n          ^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1137, in __call__\n    return self._mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1141, in _mock_call\n    return self._execute_mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1196, in _execute_mock_call\n    raise effect\nRuntimeError: NETWORK_FORBIDDEN\n"
+    },
+    {
+      "test": "test_cache_wrong_id_rejected_before_network (__main__.ReaderTests.test_cache_wrong_id_rejected_before_network)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 115, in test_cache_wrong_id_rejected_before_network\n    self.assertRejected(lambda:reader.acquire('123',self.out,1))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n                                        ^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 115, in <lambda>\n    self.assertRejected(lambda:reader.acquire('123',self.out,1))\n                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\skill\\scripts\\read_douyin.py\", line 60, in acquire\n    raw,_=request(endpoint)\n          ^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1137, in __call__\n    return self._mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1141, in _mock_call\n    return self._execute_mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1196, in _execute_mock_call\n    raise effect\nRuntimeError: NETWORK_FORBIDDEN\n"
+    },
+    {
+      "test": "test_max_mb_must_be_positive (__main__.ReaderTests.test_max_mb_must_be_positive)",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 120, in test_max_mb_must_be_positive\n    self.assertRejected(lambda:reader.acquire('123',self.out,value))\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 54, in assertRejected\n    with self.assertRaises(ValueError): fn()\n                                        ^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\validation\\video-reader\\test_read_douyin.py\", line 120, in <lambda>\n    self.assertRejected(lambda:reader.acquire('123',self.out,value))\n                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\yangwei\\Documents\\ChatGPT\\11\\video-creation-director-upgrade\\skill\\scripts\\read_douyin.py\", line 60, in acquire\n    raw,_=request(endpoint)\n          ^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1137, in __call__\n    return self._mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1141, in _mock_call\n    return self._execute_mock_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Program Files\\Python312\\Lib\\unittest\\mock.py\", line 1196, in _execute_mock_call\n    raise effect\nRuntimeError: NETWORK_FORBIDDEN\n"
+    }
+  ],
+  "passed": 7,
+  "network": "mocked; no download"
+}

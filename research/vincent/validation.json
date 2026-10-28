@@ -1,0 +1,51 @@
+{
+  "repository_count": 58,
+  "unique_repository_count": 58,
+  "fork_count": 11,
+  "counts_by_kind": {
+    "shot_card": 124,
+    "shot_variant": 150,
+    "legacy_demo": 66,
+    "talk_card": 108,
+    "motion_style": 15,
+    "full_video_template": 1,
+    "explainer_system": 1,
+    "relationship_pattern": 24,
+    "reference_shot": 44,
+    "theme_skin": 9,
+    "background_preset": 12
+  },
+  "unique_inventory_ids": 554,
+  "inventory_record_count": 554,
+  "card_doc_missing": [],
+  "shot_cards_without_implementation_paths": [],
+  "full_playbacks": 0,
+  "static_observed": 20,
+  "per_core_repo": {
+    "video-shotcraft": {
+      "card_docs": 124,
+      "saved_source_text_files": 341
+    },
+    "video-talkcraft": {
+      "card_docs": 108,
+      "saved_source_text_files": 269
+    },
+    "anything2explainer": {
+      "card_docs": 0,
+      "saved_source_text_files": 145
+    },
+    "mg-styles-15": {
+      "card_docs": 0,
+      "saved_source_text_files": 146
+    }
+  },
+  "license_distribution": {
+    "Apache-2.0": 2,
+    "PolyForm-Noncommercial-1.0.0": 2,
+    "MIT": 13,
+    "AGPL-3.0": 1,
+    "no-license-found-in-reviewed-root": 38,
+    "CC0-1.0": 1,
+    "custom-remotion-license": 1
+  }
+}

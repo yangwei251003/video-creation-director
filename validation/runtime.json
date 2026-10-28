@@ -1,0 +1,31 @@
+{
+  "runtime": [
+    {
+      "status": "PASS",
+      "name": "node",
+      "version": "v24.15.0"
+    },
+    {
+      "status": "PASS",
+      "name": "python",
+      "version": "Python 3.12.6"
+    },
+    {
+      "status": "PASS",
+      "name": "ffmpeg",
+      "version": "ffmpeg version 8.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers"
+    },
+    {
+      "status": "PASS",
+      "name": "ffprobe",
+      "version": "ffprobe version 8.1.2-essentials_build-www.gyan.dev Copyright (c) 2007-2026 the FFmpeg developers"
+    }
+  ],
+  "fonts": [],
+  "not_checked": [
+    "MCP host loading/authentication",
+    "Remotion project dependencies",
+    "perceptual quality",
+    "font licence"
+  ]
+}

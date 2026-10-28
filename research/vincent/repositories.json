@@ -1,0 +1,3660 @@
+{
+  "schema_version": "1.0",
+  "snapshot_date": "2026-10-28",
+  "account": "Vincentwei1021",
+  "public_repositories": 58,
+  "original_repositories": 47,
+  "forks": 11,
+  "enumeration": {
+    "query": "user:Vincentwei1021 fork:true",
+    "per_page": 30,
+    "pages": [
+      {
+        "page": 1,
+        "count": 30
+      },
+      {
+        "page": 2,
+        "count": 28
+      },
+      {
+        "page": 3,
+        "count": 0
+      }
+    ],
+    "duplicate_count": 0,
+    "endpoint": "https://api.github.com/search/repositories?q=user:Vincentwei1021+fork:true&per_page=30",
+    "scope": "公开仓库；不含私有、已删除仓库或仓库以外所有作品"
+  },
+  "repositories": [
+    {
+      "name": "video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "commit": "43bd349a136651865ecfa6ea1cf012f6e957d304",
+      "commit_url": "https://github.com/Vincentwei1021/video-shotcraft/commit/43bd349a136651865ecfa6ea1cf012f6e957d304",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "核心视频",
+      "purpose_zh": "产品/UI 宣传片的镜头配方、可视工作台和 Ink Press 完整模板",
+      "review_depth": "deep",
+      "review_depth_zh": "README、全树、核心工作流/许可、全量卡或15风格文本、相关实现结构；视觉仅指定静帧抽样。",
+      "readme_paths": [
+        "README.md",
+        "demos/README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/video-shotcraft/tree/43bd349a136651865ecfa6ea1cf012f6e957d304/",
+        "root_items": 22,
+        "recursive_file_count": 1361
+      },
+      "read_source_file_count": 341,
+      "reviewed_paths": [
+        "LICENSE",
+        "package.json",
+        "README.md",
+        "SKILL.md",
+        "demos/README.md",
+        "references/aesthetic-rules.md",
+        "references/final-review.md",
+        "references/guided-free-creation.md",
+        "references/jianying-export.md",
+        "references/music-beat-sync.md",
+        "references/pipeline.md",
+        "references/publish-upload-post.md",
+        "references/sound-design.md",
+        "references/workbench.md",
+        "template/package.json",
+        "template/remotion.config.ts",
+        "template/TEMPLATE.md",
+        "template/THEMES.md",
+        "template/tsconfig.json",
+        "workbench/package.json",
+        "assets/audio/ATTRIBUTION.md",
+        "assets/lib/Caption.tsx",
+        "assets/lib/ClipCard.tsx",
+        "assets/lib/DigitRoll.tsx",
+        "assets/lib/FlashCut.tsx",
+        "assets/lib/FlatPanel.tsx",
+        "assets/lib/PageCam.tsx",
+        "assets/lib/VerticalTicker.tsx",
+        "assets/lib/helpers/camera.tsx",
+        "assets/lib/helpers/motion.ts",
+        "assets/lib/helpers/rand.ts",
+        "assets/lib/helpers/shake.ts",
+        "assets/lib/helpers/__tests__/helpers.test.ts",
+        "demos/_fixtures/Brand.tsx",
+        "demos/_fixtures/Fixtures.tsx",
+        "demos/_fixtures/Look.tsx",
+        "demos/_fixtures/Motion.tsx",
+        "demos/_fixtures/PageCam2D.tsx",
+        "demos/_fixtures/Polish.tsx",
+        "demos/_legacy/manifest.json",
+        "demos/camera/basic-3d-scene/Basic3DScene.tsx",
+        "demos/camera/crash-zoom-punch/CrashImpactReal.tsx",
+        "demos/camera/crash-zoom-punch/CrashZoomReal.tsx",
+        "demos/camera/cursor-flyover/CursorFlyover.tsx",
+        "demos/camera/depth-layer-moves/MultiplaneReal.tsx",
+        "demos/camera/graze-face-tour/GrazeFaceTour.tsx",
+        "demos/camera/overhead-camera-moves/OverheadTabletopDrop.tsx",
+        "demos/camera/overhead-camera-moves/TiltReveal.tsx",
+        "demos/camera/space-camera-moves/DroneDiveLanding.tsx",
+        "demos/camera/space-camera-moves/ExplodedView.tsx",
+        "demos/camera/steep-tilt-glide/SteepTiltGlide.tsx",
+        "demos/camera/tension-camera-moves/BulletTimeFreezeOrbit.tsx",
+        "demos/camera/tension-camera-moves/PullBackIsolation.tsx",
+        "demos/camera/terminal-3d/Terminal3D.tsx",
+        "demos/data/before-after-slider-scrub/BeforeAfterSliderScrub.tsx",
+        "demos/data/chart-live-moves/AxisRescaleShockV2.tsx",
+        "demos/data/chart-live-moves/OscilloscopeStreamV2.tsx",
+        "demos/data/chart-live-moves/UnitDotSwarmRegroupV2.tsx",
+        "demos/data/gauge-readout-moves/NeedleSweepSelftest.tsx",
+        "demos/data/gauge-readout-moves/TapeScrollFixedPointer.tsx",
+        "demos/data/scroll-brake-moves/BrakeReticleLock.tsx",
+        "demos/data/scroll-brake-moves/ChangelogScrollBrake.tsx",
+        "demos/data/timeline-travel/TimelineTravel.tsx",
+        "demos/effects/assemble-then-type-flyin/AssembleThenTypeFlyin.tsx",
+        "demos/effects/aurora-bloom-bg-flip/AuroraBloomBgFlip.tsx",
+        "demos/effects/brand-frame-snap/BrandFrameSnap.tsx",
+        "demos/effects/fui-hud-moves/ReticleLockOn.tsx",
+        "demos/effects/glow-flyline-moves/FlylineArc.tsx",
+        "demos/effects/glow-flyline-moves/GlowOrbAmbient.tsx",
+        "demos/effects/glow-flyline-moves/OrbFlylineRelay.tsx",
+        "demos/effects/icon-performance-moves/AttentionBounce.tsx",
+        "demos/effects/impact-feedback/AnimeImpact.tsx",
+        "demos/effects/impact-feedback/HitCounter.tsx",
+        "demos/effects/light-play-moves/SheenSweepRetry.tsx",
+        "demos/effects/light-play-moves/SpotlightSweepReveal.tsx",
+        "demos/effects/radial-ripple-phone-chips/RadialRipplePhoneChips.tsx",
+        "demos/effects/riso-print-hits/RisoMisregistrationHit.tsx",
+        "demos/effects/scan-bracket-sweep/ScanBracketSweep.tsx",
+        "demos/effects/scanline-annotate-focus/ScanlineAnnotateFocus.tsx",
+        "demos/effects/scanline-assemble-flyin/ScanlineAssembleFlyin.tsx",
+        "demos/effects/slam-entrance-moves/ImpactBurstKit.tsx",
+        "demos/effects/slam-entrance-moves/KanadaPerspectiveSnap.tsx",
+        "demos/effects/slam-entrance-moves/ScoreSlam.tsx",
+        "demos/effects/spotlight-sweep-moves/CornerSpotlightReveal.tsx",
+        "demos/effects/spotlight-sweep-moves/GlowWakeSleepPanel.tsx",
+        "demos/effects/spotlight-sweep-moves/SlideSpotlightPan.tsx",
+        "demos/interaction/autolayout-gap-dial/AutolayoutGapDial.tsx",
+        "demos/interaction/canvas-materialize-moves/DiagramCascadeBuild.tsx",
+        "demos/interaction/canvas-materialize-moves/PanelToCanvasMaterialize.tsx",
+        "demos/interaction/chip-grid-single-select-blackout/ChipGridSingleSelectBlackout.tsx",
+        "demos/interaction/collab-cursor-moves/CursorCastEnsemble.tsx",
+        "demos/interaction/glass-pill-dictation-typing/GlassPillDictationTyping.tsx",
+        "demos/interaction/hashtag-to-pill-materialize/HashtagToPillMaterialize.tsx",
+        "demos/interaction/picker-carousel-feature-cycle/PickerCarouselFeatureCycle.tsx",
+        "demos/interaction/segmented-thumb-hero/SegmentedThumbHero.tsx",
+        "demos/interaction/theme-switch-moves/PaletteThemeRipple.tsx",
+        "demos/interaction/theme-switch-moves/ThemeSweepToggle.tsx",
+        "demos/interaction/type-and-filter/TypeAndFilter.tsx",
+        "demos/interaction/voice-waveform-live/VoiceWaveformLive.tsx",
+        "demos/opening/crane-rise-reveal/CraneRiseReveal.tsx",
+        "demos/opening/dataviz-landscape-open/DatavizLandscapeOpen.tsx",
+        "demos/opening/fracture/Fracture.tsx",
+        "demos/opening/icon-field-colorize/IconFieldColorize.tsx",
+        "demos/opening/letterspace-materialize/LetterspaceMaterialize.tsx",
+        "demos/opening/magician-card-flourish/MagicianCardFlourish.tsx",
+        "demos/opening/orbit-ring-title-open/OrbitRingTitleOpen.tsx",
+        "demos/opening/spotlight-hero-card/SpotlightHeroCard.tsx",
+        "demos/opening/stroke-segment-build/StrokeSegmentBuild.tsx",
+        "demos/opening/text-as-mask/TextAsMask.tsx",
+        "demos/outro/grain-dissolve/GrainDissolve.tsx",
+        "demos/outro/logo-shrink-wordmark-lockup/LogoShrinkWordmarkLockup.tsx",
+        "demos/outro/neon-triple-marquee/NeonTripleMarquee.tsx",
+        "demos/outro/outro-group-photo-launch/OutroGroupPhotoLaunch.tsx",
+        "demos/outro/ui-strip-away-outro/UiStripAwayOutro.tsx",
+        "demos/outro/ui-to-brand-morph/IconFlipBloomLogo.tsx",
+        "demos/outro/ui-to-brand-morph/InputMorphsIntoLogo.tsx",
+        "demos/rhythm/beat-cut-moves/PaparazziFlash.tsx",
+        "demos/rhythm/beat-step-list-theme-cycle/BeatStepListThemeCycle.tsx",
+        "demos/rhythm/panel-grid-moves/ComicPanelSplit.tsx",
+        "demos/rhythm/quad-split-parallel-scenes/QuadSplitParallelScenes.tsx",
+        "demos/rhythm/rhythm-interrupt-moves/JumpCutPunchIn.tsx",
+        "demos/rhythm/sakuga-timing-shift/SakugaTimingShift.tsx",
+        "demos/rhythm/speed-ramp-freeze/FreezeAnnotateReal.tsx",
+        "demos/rhythm/trailer-grammar-moves/TrailerBumper.tsx",
+        "demos/transition/bottom-push-stack-wipe/BottomPushStackWipe.tsx",
+        "demos/transition/card-flip-reveal/CardFlipReveal.tsx",
+        "demos/transition/card-flock-tumble/CardFlockTumble.tsx",
+        "demos/transition/circle-match-iris/CircleMatchIris.tsx",
+        "demos/transition/gradient-transition/GradientTransition.tsx",
+        "demos/transition/line-carry-transition/LineCarryTransition.tsx",
+        "demos/transition/mosaic-reframe/MosaicReframe.tsx",
+        "demos/transition/page-turn-transitions/BarnDoorSplit.tsx",
+        "demos/transition/print-texture-transitions/InkBleedReveal.tsx",
+        "demos/transition/shot-transitions/PortalWipeV2.tsx",
+        "demos/transition/shot-transitions/WhipBrakeReal.tsx",
+        "demos/transition/tear-streak-transitions/GlitchDisplace.tsx",
+        "demos/transition/transition-hidden-cut/InvisibleCut.tsx",
+        "demos/transition/transition-hidden-cut/LightLeakBurn.tsx",
+        "demos/transition/transition-hidden-cut/VersusSlam.tsx",
+        "demos/transition/transition-travel/LetterformZoom.tsx",
+        "demos/transition/white-flash-logo-simplify-cut/WhiteFlashLogoSimplifyCut.tsx",
+        "demos/transition/wipe-transitions/BlindsSlice.tsx",
+        "demos/typography/blur-slide/BlurSlide.tsx",
+        "demos/typography/brace-expand/BraceExpand.tsx",
+        "demos/typography/brand-ink-open/BrandInkOpen.tsx",
+        "demos/typography/countdown-arc-scatter/CountdownArcScatter.tsx",
+        "demos/typography/flying-words/FlyingWords.tsx",
+        "demos/typography/glitch-cycle/GlitchCycle.tsx",
+        "demos/typography/gradient-word-sweep/GradientWordSweep.tsx",
+        "demos/typography/lead-word-zoom-assemble/LeadWordZoomAssemble.tsx",
+        "demos/typography/marker-underline-title/MarkerUnderlineTitle.tsx",
+        "demos/typography/outline-word-fill/OutlineWordFill.tsx",
+        "demos/typography/paper-title-card/PaperTitleCard.tsx",
+        "demos/typography/pill-chip-slot-cycle-handled/PillChipSlotCycleHandled.tsx",
+        "demos/typography/pill-slot-cycle/PillSlotCycle.tsx",
+        "demos/typography/text-column-converge/TextColumnConverge.tsx",
+        "demos/typography/title-demote-to-label/TitleDemoteToLabel.tsx",
+        "demos/typography/type-assembly-moves/LetterformDriftAssembly.tsx",
+        "demos/typography/type-assembly-moves/SplitTextStagger.tsx",
+        "demos/typography/type-assembly-moves/TextOnPath.tsx",
+        "demos/typography/type-entrance-moves/LetterDropPhysics.tsx",
+        "demos/typography/type-rhythm-sync/FontWeightPump.tsx",
+        "demos/typography/type-rhythm-sync/KaraokeFillSync.tsx",
+        "demos/typography/typewriter-moves/TypewriterErrorRetype.tsx",
+        "demos/typography/vertical-word-roll-blur-cycle/VerticalWordRollBlurCycle.tsx",
+        "demos/typography/word-relay-filmstrip/WordRelayFilmstrip.tsx",
+        "demos/typography/word-relay-geometry/WordRelayGeometry.tsx",
+        "demos/ui-entrance/avatar-bracket-carousel/AvatarBracketCarousel.tsx",
+        "demos/ui-entrance/bezier-source-converge-merge/BezierSourceConvergeMerge.tsx",
+        "demos/ui-entrance/card-stack/CardStack.tsx",
+        "demos/ui-entrance/carousel-3d/Carousel3D.tsx",
+        "demos/ui-entrance/clipcard-looping/ClipCardLooping.tsx",
+        "demos/ui-entrance/cloner-depth-echo/ClonerDepthEcho.tsx",
+        "demos/ui-entrance/deck-deal-flyin/DeckDealFlyin.tsx",
+        "demos/ui-entrance/doc-park-left-pill-deal/DocParkLeftPillDeal.tsx",
+        "demos/ui-entrance/document-typewriter-reveal/DocumentTypewriterReveal.tsx",
+        "demos/ui-entrance/draw-svg-trace/DrawSvgTrace.tsx",
+        "demos/ui-entrance/element-body-moves/ContactShadowLift.tsx",
+        "demos/ui-entrance/integration-hub-map/IntegrationHubMap.tsx",
+        "demos/ui-entrance/list-reveal/ListReveal.tsx",
+        "demos/ui-entrance/list-stack-press/ListStackPress.tsx",
+        "demos/ui-entrance/neon-frame-forerun/NeonFrameForerun.tsx",
+        "demos/ui-entrance/neon-frame-orbit-drop/NeonFrameForerunOrbit.tsx",
+        "demos/ui-entrance/page-waterfall-wall/PageWaterfallWall.tsx",
+        "demos/ui-entrance/page-waterfall-wall/VerticalTicker.tsx",
+        "demos/ui-entrance/product-card-progressive-assemble/ProductCardProgressiveAssemble.tsx",
+        "demos/ui-entrance/radial-wave/RadialWave.tsx",
+        "demos/ui-entrance/research-card-stack-scroll/ResearchCardStackScroll.tsx",
+        "demos/ui-entrance/row-embed/RowEmbed.tsx",
+        "demos/ui-entrance/value-stagger-gradient/ValueStaggerGradient.tsx",
+        "demos/ui-entrance/wall-reveal-moves/BentoLightUp.tsx",
+        "demos/ui-entrance/wall-reveal-moves/WireframeDrawOn.tsx",
+        "gallery/api/library.json",
+        "references/sequences/promo-energy-arc.md",
+        "references/shots/ATTRIBUTION.md",
+        "references/shots/camera/basic-3d-scene.md",
+        "references/shots/camera/crash-zoom-punch.md",
+        "references/shots/camera/cursor-flyover.md",
+        "references/shots/camera/depth-layer-moves.md",
+        "references/shots/camera/graze-face-tour.md",
+        "references/shots/camera/overhead-camera-moves.md",
+        "references/shots/camera/space-camera-moves.md",
+        "references/shots/camera/steep-tilt-glide.md",
+        "references/shots/camera/tension-camera-moves.md",
+        "references/shots/camera/terminal-3d.md",
+        "references/shots/data/before-after-slider-scrub.md",
+        "references/shots/data/chart-live-moves.md",
+        "references/shots/data/gauge-readout-moves.md",
+        "references/shots/data/scroll-brake-moves.md",
+        "references/shots/data/timeline-travel.md",
+        "references/shots/effects/assemble-then-type-flyin.md",
+        "references/shots/effects/aurora-bloom-bg-flip.md",
+        "references/shots/effects/brand-frame-snap.md",
+        "references/shots/effects/fui-hud-moves.md",
+        "references/shots/effects/glow-flyline-moves.md",
+        "references/shots/effects/icon-performance-moves.md",
+        "references/shots/effects/impact-feedback.md",
+        "references/shots/effects/light-play-moves.md",
+        "references/shots/effects/radial-ripple-phone-chips.md",
+        "references/shots/effects/riso-print-hits.md",
+        "references/shots/effects/scan-bracket-sweep.md",
+        "references/shots/effects/scanline-annotate-focus.md",
+        "references/shots/effects/scanline-assemble-flyin.md",
+        "references/shots/effects/slam-entrance-moves.md",
+        "references/shots/effects/spotlight-sweep-moves.md",
+        "references/shots/interaction/autolayout-gap-dial.md",
+        "references/shots/interaction/canvas-materialize-moves.md",
+        "references/shots/interaction/chip-grid-single-select-blackout.md",
+        "references/shots/interaction/collab-cursor-moves.md",
+        "references/shots/interaction/glass-pill-dictation-typing.md",
+        "references/shots/interaction/hashtag-to-pill-materialize.md",
+        "references/shots/interaction/picker-carousel-feature-cycle.md",
+        "references/shots/interaction/segmented-thumb-hero.md",
+        "references/shots/interaction/theme-switch-moves.md",
+        "references/shots/interaction/type-and-filter.md",
+        "references/shots/interaction/voice-waveform-live.md",
+        "references/shots/opening/brand-ink-open.md",
+        "references/shots/opening/crane-rise-reveal.md",
+        "references/shots/opening/dataviz-landscape-open.md",
+        "references/shots/opening/fracture.md",
+        "references/shots/opening/icon-field-colorize.md",
+        "references/shots/opening/letterspace-materialize.md",
+        "references/shots/opening/magician-card-flourish.md",
+        "references/shots/opening/orbit-ring-title-open.md",
+        "references/shots/opening/spotlight-hero-card.md",
+        "references/shots/opening/stroke-segment-build.md",
+        "references/shots/opening/text-as-mask.md",
+        "references/shots/outro/grain-dissolve.md",
+        "references/shots/outro/logo-shrink-wordmark-lockup.md",
+        "references/shots/outro/neon-triple-marquee.md",
+        "references/shots/outro/outro-group-photo-launch.md",
+        "references/shots/outro/ui-strip-away-outro.md",
+        "references/shots/outro/ui-to-brand-morph.md",
+        "references/shots/rhythm/beat-cut-moves.md",
+        "references/shots/rhythm/beat-step-list-theme-cycle.md",
+        "references/shots/rhythm/panel-grid-moves.md",
+        "references/shots/rhythm/quad-split-parallel-scenes.md",
+        "references/shots/rhythm/rhythm-interrupt-moves.md",
+        "references/shots/rhythm/sakuga-timing-shift.md",
+        "references/shots/rhythm/speed-ramp-freeze.md",
+        "references/shots/rhythm/trailer-grammar-moves.md",
+        "references/shots/transition/bottom-push-stack-wipe.md",
+        "references/shots/transition/card-flip-reveal.md",
+        "references/shots/transition/card-flock-tumble.md",
+        "references/shots/transition/circle-match-iris.md",
+        "references/shots/transition/gradient-transition.md",
+        "references/shots/transition/line-carry-transition.md",
+        "references/shots/transition/mosaic-reframe.md",
+        "references/shots/transition/page-turn-transitions.md",
+        "references/shots/transition/print-texture-transitions.md",
+        "references/shots/transition/shot-transitions.md",
+        "references/shots/transition/tear-streak-transitions.md",
+        "references/shots/transition/transition-hidden-cut.md",
+        "references/shots/transition/transition-travel.md",
+        "references/shots/transition/white-flash-logo-simplify-cut.md",
+        "references/shots/transition/wipe-transitions.md",
+        "references/shots/typography/blur-slide.md",
+        "references/shots/typography/brace-expand.md",
+        "references/shots/typography/countdown-arc-scatter.md",
+        "references/shots/typography/document-typewriter-reveal.md",
+        "references/shots/typography/flying-words.md",
+        "references/shots/typography/glitch-cycle.md",
+        "references/shots/typography/gradient-word-sweep.md",
+        "references/shots/typography/lead-word-zoom-assemble.md",
+        "references/shots/typography/marker-underline-title.md",
+        "references/shots/typography/outline-word-fill.md",
+        "references/shots/typography/paper-title-card.md",
+        "references/shots/typography/pill-chip-slot-cycle-handled.md",
+        "references/shots/typography/pill-slot-cycle.md",
+        "references/shots/typography/text-column-converge.md",
+        "references/shots/typography/title-demote-to-label.md",
+        "references/shots/typography/type-assembly-moves.md",
+        "references/shots/typography/type-entrance-moves.md",
+        "references/shots/typography/type-rhythm-sync.md",
+        "references/shots/typography/typewriter-moves.md",
+        "references/shots/typography/vertical-word-roll-blur-cycle.md",
+        "references/shots/typography/word-relay-filmstrip.md",
+        "references/shots/typography/word-relay-geometry.md",
+        "references/shots/ui-entrance/avatar-bracket-carousel.md",
+        "references/shots/ui-entrance/bezier-source-converge-merge.md",
+        "references/shots/ui-entrance/card-stack.md",
+        "references/shots/ui-entrance/carousel-3d.md",
+        "references/shots/ui-entrance/cloner-depth-echo.md",
+        "references/shots/ui-entrance/deck-deal-flyin.md",
+        "references/shots/ui-entrance/doc-park-left-pill-deal.md",
+        "references/shots/ui-entrance/draw-svg-trace.md",
+        "references/shots/ui-entrance/element-body-moves.md",
+        "references/shots/ui-entrance/integration-hub-map.md",
+        "references/shots/ui-entrance/list-reveal.md",
+        "references/shots/ui-entrance/list-stack-press.md",
+        "references/shots/ui-entrance/neon-frame-forerun.md",
+        "references/shots/ui-entrance/neon-frame-orbit-drop.md",
+        "references/shots/ui-entrance/page-waterfall-wall.md",
+        "references/shots/ui-entrance/product-card-progressive-assemble.md",
+        "references/shots/ui-entrance/radial-wave.md",
+        "references/shots/ui-entrance/research-card-stack-scroll.md",
+        "references/shots/ui-entrance/row-embed.md",
+        "references/shots/ui-entrance/value-stagger-gradient.md",
+        "references/shots/ui-entrance/wall-reveal-moves.md",
+        "template/src/index.ts",
+        "template/src/Root.tsx",
+        "template/src/workbench.ts",
+        "template/src/aifl/Caption.tsx",
+        "template/src/aifl/DigitRoll.tsx",
+        "template/src/aifl/FlashCut.tsx",
+        "template/src/aifl/live-layout.json",
+        "template/src/aifl/Main.tsx",
+        "template/src/aifl/PaperTitleCard.tsx",
+        "template/src/themes/manifest.tsx",
+        "template/src/themes/palette-assets.json",
+        "template/src/themes/palette-assets.ts",
+        "template/src/themes/palettes.json",
+        "template/src/themes/ThemedFilm.tsx",
+        "template/src/themes/visual-theme.tsx",
+        "template/src/aifl/live/PageCam.tsx",
+        "template/src/aifl/live/SceneDetail.tsx",
+        "template/src/aifl/live/SceneFlyIn.tsx",
+        "template/src/aifl/live/SceneOpen.tsx",
+        "template/src/aifl/live/SceneOutroLive.tsx",
+        "template/src/aifl/live/ScenePapers.tsx",
+        "template/src/aifl/live/SceneWbr.tsx"
+      ],
+      "license": {
+        "status": "Apache-2.0",
+        "github_spdx": "Apache-2.0",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "commit": "735c79c8724e897e8971cd59dde7e5aa11e4d6ce",
+      "commit_url": "https://github.com/Vincentwei1021/anything2explainer/commit/735c79c8724e897e8971cd59dde7e5aa11e4d6ce",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "核心视频",
+      "purpose_zh": "材料调研、讲解叙事、TTS/字幕时间轴和黑底知识动画",
+      "review_depth": "deep",
+      "review_depth_zh": "README、全树、核心工作流/许可、全量卡或15风格文本、相关实现结构；视觉仅指定静帧抽样。",
+      "readme_paths": [
+        "README.md",
+        "examples/contrast/README.md",
+        "examples/rag/README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/anything2explainer/blob/735c79c8724e897e8971cd59dde7e5aa11e4d6ce/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/anything2explainer/tree/735c79c8724e897e8971cd59dde7e5aa11e4d6ce/",
+        "root_items": 9,
+        "recursive_file_count": 209
+      },
+      "read_source_file_count": 145,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md",
+        "SKILL.md",
+        "reference/agent-build-rules.md",
+        "reference/agent-qc-rules.md",
+        "reference/composition-and-light.md",
+        "reference/lessons.md",
+        "reference/motion-vocabulary.md",
+        "reference/narration-guidance.md",
+        "reference/narration-storyboard.md",
+        "reference/prompts.md",
+        "reference/research-brief.md",
+        "reference/style-guide.md",
+        "template/package.json",
+        "template/remotion.config.ts",
+        "examples/contrast/README.md",
+        "examples/rag/AGENT_RAG_BUILD_RULES.md",
+        "examples/rag/AGENT_RAG_QC_RULES.md",
+        "examples/rag/README.md",
+        "examples/rag/research.md",
+        "examples/rag/storyboard_src.md",
+        "examples/rag/timeline.md",
+        "examples/rag/交付说明.md",
+        "examples/rag/分镜表.md",
+        "examples/rag/qc/qc_v1_C1.md",
+        "examples/rag/qc/qc_v1_C2.md",
+        "examples/rag/qc/qc_v1_C3.md",
+        "examples/rag/qc/qc_v1_C4.md",
+        "examples/rag/qc/qc_v3_final.md",
+        "examples/rag/shots_src/G0/Overlay.tsx",
+        "examples/rag/shots_src/G0/Preview.tsx",
+        "examples/rag/shots_src/G1/BUILD_NOTES.md",
+        "examples/rag/shots_src/G1/layout.tsx",
+        "examples/rag/shots_src/G1/Preview.tsx",
+        "examples/rag/shots_src/G1/SC01.tsx",
+        "examples/rag/shots_src/G1/SC02.tsx",
+        "examples/rag/shots_src/G1/SC03.tsx",
+        "examples/rag/shots_src/G1/SC04.tsx",
+        "examples/rag/shots_src/G1/SC05.tsx",
+        "examples/rag/shots_src/G2/BUILD_NOTES.md",
+        "examples/rag/shots_src/G2/parts.tsx",
+        "examples/rag/shots_src/G2/Preview.tsx",
+        "examples/rag/shots_src/G2/SC06.tsx",
+        "examples/rag/shots_src/G2/SC07.tsx",
+        "examples/rag/shots_src/G2/SC08.tsx",
+        "examples/rag/shots_src/G2/SC09.tsx",
+        "examples/rag/shots_src/G2/SC10.tsx",
+        "examples/rag/shots_src/G3/BUILD_NOTES.md",
+        "examples/rag/shots_src/G3/g3ui.tsx",
+        "examples/rag/shots_src/G3/Preview.tsx",
+        "examples/rag/shots_src/G3/SC11.tsx",
+        "examples/rag/shots_src/G3/SC12.tsx",
+        "examples/rag/shots_src/G3/SC13.tsx",
+        "examples/rag/shots_src/G3/SC14.tsx",
+        "examples/rag/shots_src/G3/SC15.tsx",
+        "examples/rag/shots_src/G4/BUILD_NOTES.md",
+        "examples/rag/shots_src/G4/Preview.tsx",
+        "examples/rag/shots_src/G4/SC16.tsx",
+        "examples/rag/shots_src/G4/SC17.tsx",
+        "examples/rag/shots_src/G4/SC18.tsx",
+        "examples/rag/shots_src/G4/SC19.tsx",
+        "examples/rag/shots_src/G4/SC20.tsx",
+        "examples/rag/shots_src/G5/BUILD_NOTES.md",
+        "examples/rag/shots_src/G5/g5util.tsx",
+        "examples/rag/shots_src/G5/Preview.tsx",
+        "examples/rag/shots_src/G5/SC21.tsx",
+        "examples/rag/shots_src/G5/SC22.tsx",
+        "examples/rag/shots_src/G5/SC23.tsx",
+        "examples/rag/shots_src/G5/SC24.tsx",
+        "examples/rag/shots_src/G5/SC25.tsx",
+        "examples/rag/shots_src/G5/vspace.tsx",
+        "examples/rag/shots_src/G6/BUILD_NOTES.md",
+        "examples/rag/shots_src/G6/Preview.tsx",
+        "examples/rag/shots_src/G6/SC26.tsx",
+        "examples/rag/shots_src/G6/SC27.tsx",
+        "examples/rag/shots_src/G6/SC28.tsx",
+        "examples/rag/shots_src/G6/SC29.tsx",
+        "examples/rag/shots_src/G6/SC30.tsx",
+        "examples/rag/shots_src/G6/ui.tsx",
+        "examples/rag/shots_src/G7/BUILD_NOTES.md",
+        "examples/rag/shots_src/G7/g7ui.tsx",
+        "examples/rag/shots_src/G7/Preview.tsx",
+        "examples/rag/shots_src/G7/SC31.tsx",
+        "examples/rag/shots_src/G7/SC32.tsx",
+        "examples/rag/shots_src/G7/SC33.tsx",
+        "examples/rag/shots_src/G7/SC34.tsx",
+        "examples/rag/shots_src/G7/SC35.tsx",
+        "examples/rag/shots_src/G7/SC36.tsx",
+        "examples/rag/shots_src/G7/SC37.tsx",
+        "examples/rag/shots_src/G8/BUILD_NOTES.md",
+        "examples/rag/shots_src/G8/Preview.tsx",
+        "examples/rag/shots_src/G8/SC38.tsx",
+        "examples/rag/shots_src/G8/SC39.tsx",
+        "examples/rag/shots_src/G8/SC40.tsx",
+        "examples/rag/shots_src/G8/SC41.tsx",
+        "examples/rag/shots_src/G8/SC42.tsx",
+        "examples/rag/shots_src/G8/SC43.tsx",
+        "examples/rag/shots_src/G8/SC44.tsx",
+        "examples/rag/shots_src/G8/shared.tsx",
+        "template/scripts/frame_metrics.py",
+        "template/scripts/motion_check.py",
+        "template/scripts/render_storyboard.py",
+        "template/scripts/selfcheck.py",
+        "template/scripts/sheet.py",
+        "template/scripts/tts_build.py",
+        "template/src/config.ts",
+        "template/src/fx.tsx",
+        "template/src/index.ts",
+        "template/src/Main.tsx",
+        "template/src/Root.tsx",
+        "template/src/ui.tsx",
+        "template/public/fonts/LICENSE.md",
+        "template/src/common/DotFieldBg.tsx",
+        "template/src/common/easing.ts",
+        "template/src/common/Fog.tsx",
+        "template/src/common/Footage.tsx",
+        "template/src/common/Glitch.tsx",
+        "template/src/common/index.ts",
+        "template/src/common/lib.tsx",
+        "template/src/common/ProgressBar.tsx",
+        "template/src/common/StarField.tsx",
+        "template/src/common/subs.ts",
+        "template/src/common/Subtitle.tsx",
+        "template/src/common/textfit.ts",
+        "template/src/common/timeline.ts",
+        "template/src/common/types.ts",
+        "template/src/overlay/index.ts",
+        "template/src/overlay/Overlay.tsx",
+        "template/src/overlay/Preview.tsx",
+        "template/src/shots/G1/index.ts",
+        "template/src/shots/G1/Preview.tsx",
+        "template/src/shots/G2/index.ts",
+        "template/src/shots/G2/Preview.tsx",
+        "template/src/shots/G3/index.ts",
+        "template/src/shots/G3/Preview.tsx",
+        "template/src/shots/G4/index.ts",
+        "template/src/shots/G4/Preview.tsx",
+        "template/src/shots/G5/index.ts",
+        "template/src/shots/G5/Preview.tsx",
+        "template/src/shots/G6/index.ts",
+        "template/src/shots/G6/Preview.tsx",
+        "template/src/shots/G7/index.ts",
+        "template/src/shots/G7/Preview.tsx",
+        "template/src/shots/G8/index.ts",
+        "template/src/shots/G8/Preview.tsx"
+      ],
+      "license": {
+        "status": "PolyForm-Noncommercial-1.0.0",
+        "github_spdx": "NOASSERTION",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/anything2explainer/blob/735c79c8724e897e8971cd59dde7e5aa11e4d6ce/LICENSE"
+        ],
+        "reuse_boundary": "工具包商业使用需另获许可；索引仅记录事实与来源，不包含完整配方或源码。输出影片权利按作者 README 的单独声明及素材许可核对。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "mg-styles-15",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "commit": "49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+      "commit_url": "https://github.com/Vincentwei1021/mg-styles-15/commit/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "核心视频",
+      "purpose_zh": "15 种完整动效风格及逐段制作提示、实现和音频方案",
+      "review_depth": "deep",
+      "review_depth_zh": "README、全树、核心工作流/许可、全量卡或15风格文本、相关实现结构；视觉仅指定静帧抽样。",
+      "readme_paths": [
+        "README.md",
+        "assets/fonts/README.md",
+        "demos/04-3d-render/README.md",
+        "lib/audio/README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/mg-styles-15/tree/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/",
+        "root_items": 18,
+        "recursive_file_count": 384
+      },
+      "read_source_file_count": 146,
+      "reviewed_paths": [
+        "LICENSE",
+        "package.json",
+        "README.md",
+        "rubric.md",
+        "template.md",
+        "harness/render.mjs",
+        "prompts/01-flat-vector.md",
+        "prompts/02-line-art.md",
+        "prompts/03-isometric.md",
+        "prompts/04-3d-render.md",
+        "prompts/05-cel-boil.md",
+        "prompts/06-collage.md",
+        "prompts/07-liquid.md",
+        "prompts/08-morph.md",
+        "prompts/09-bauhaus.md",
+        "prompts/10-synthwave.md",
+        "prompts/12-aurora-glass.md",
+        "prompts/18-hanazi.md",
+        "prompts/19-paperclip.md",
+        "prompts/20-pixel.md",
+        "prompts/22-hud.md",
+        "site/app.js",
+        "site/data.js",
+        "assets/fonts/README.md",
+        "demos/01-flat-vector/audio.py",
+        "demos/01-flat-vector/cues.json",
+        "demos/01-flat-vector/index.html",
+        "demos/02-line-art/audio.py",
+        "demos/02-line-art/cues.json",
+        "demos/02-line-art/film.js",
+        "demos/02-line-art/index.html",
+        "demos/03-isometric/audio.py",
+        "demos/03-isometric/cues.json",
+        "demos/03-isometric/index.html",
+        "demos/04-3d-render/audio.py",
+        "demos/04-3d-render/cues.json",
+        "demos/04-3d-render/index.html",
+        "demos/04-3d-render/README.md",
+        "demos/05-cel-boil/audio.py",
+        "demos/05-cel-boil/cues.json",
+        "demos/05-cel-boil/index.html",
+        "demos/06-collage/audio.py",
+        "demos/06-collage/cues.json",
+        "demos/06-collage/index.html",
+        "demos/07-liquid/audio.py",
+        "demos/07-liquid/cues.json",
+        "demos/07-liquid/index.html",
+        "demos/08-morph/audio.py",
+        "demos/08-morph/cues.json",
+        "demos/08-morph/index.html",
+        "demos/09-bauhaus/audio.py",
+        "demos/09-bauhaus/cues.json",
+        "demos/09-bauhaus/film.js",
+        "demos/09-bauhaus/index.html",
+        "demos/10-synthwave/audio.py",
+        "demos/10-synthwave/cues.json",
+        "demos/10-synthwave/index.html",
+        "demos/12-aurora-glass/audio.py",
+        "demos/12-aurora-glass/cues.json",
+        "demos/12-aurora-glass/index.html",
+        "demos/12-aurora-glass/main.js",
+        "demos/12-aurora-glass/shaders.js",
+        "demos/18-hanazi/audio.py",
+        "demos/18-hanazi/cues.json",
+        "demos/18-hanazi/index.html",
+        "demos/19-paperclip/audio.py",
+        "demos/19-paperclip/cues.json",
+        "demos/19-paperclip/index.html",
+        "demos/20-pixel/audio.py",
+        "demos/20-pixel/cues.json",
+        "demos/20-pixel/film.js",
+        "demos/20-pixel/index.html",
+        "demos/22-hud/audio.py",
+        "demos/22-hud/cues.json",
+        "demos/22-hud/index.html",
+        "demos/02-line-art/tools/retime.py",
+        "demos/03-isometric/js/anim.js",
+        "demos/03-isometric/js/main.js",
+        "demos/03-isometric/js/night5.js",
+        "demos/03-isometric/js/render.js",
+        "demos/03-isometric/js/title.js",
+        "demos/03-isometric/js/title5.js",
+        "demos/03-isometric/js/ui.js",
+        "demos/03-isometric/js/world.js",
+        "demos/04-3d-render/blender/common.py",
+        "demos/04-3d-render/blender/make_letters.py",
+        "demos/04-3d-render/blender/render.py",
+        "demos/04-3d-render/blender/scene.py",
+        "demos/04-3d-render/blender/sim.py",
+        "demos/05-cel-boil/js/engine.js",
+        "demos/05-cel-boil/js/scene.js",
+        "demos/05-cel-boil/tools/gen_dust.py",
+        "demos/05-cel-boil/tools/gen_paper.py",
+        "demos/05-cel-boil/tools/hitmax.py",
+        "demos/06-collage/work/prep.py",
+        "demos/06-collage/work/prep_birds.py",
+        "demos/06-collage/work/prep_hand.py",
+        "demos/07-liquid/js/engine.js",
+        "demos/07-liquid/js/links.js",
+        "demos/07-liquid/js/lookdev.js",
+        "demos/07-liquid/js/scene.js",
+        "demos/07-liquid/js/shaders.js",
+        "demos/07-liquid/js/textsdf.js",
+        "demos/07-liquid/js/type.js",
+        "demos/08-morph/tools/glyphs.py",
+        "demos/18-hanazi/assets/prep.py",
+        "demos/18-hanazi/assets/prep_r2.py",
+        "demos/18-hanazi/assets/prep_r2b.py",
+        "demos/19-paperclip/tools/stickers.py",
+        "demos/22-hud/js/holo.js",
+        "demos/22-hud/js/hud.js",
+        "demos/22-hud/js/post.js",
+        "demos/22-hud/js/util.js",
+        "demos/22-hud/js/v5.js",
+        "lib/audio/README.md",
+        "lib/audio/mgaudio/chip.py",
+        "lib/audio/mgaudio/core.py",
+        "lib/audio/mgaudio/drums.py",
+        "lib/audio/mgaudio/filters.py",
+        "lib/audio/mgaudio/fm.py",
+        "lib/audio/mgaudio/fx.py",
+        "lib/audio/mgaudio/master.py",
+        "lib/audio/mgaudio/mix.py",
+        "lib/audio/mgaudio/osc.py",
+        "lib/audio/mgaudio/pluck.py",
+        "lib/audio/mgaudio/qc.py",
+        "lib/audio/mgaudio/samples.py",
+        "lib/audio/mgaudio/seq.py",
+        "lib/audio/mgaudio/sfx.py",
+        "lib/audio/mgaudio/sync.py",
+        "lib/audio/mgaudio/synth.py",
+        "lib/audio/mgaudio/theory.py",
+        "lib/audio/mgaudio/wind.py",
+        "lib/audio/mgaudio/_dsp.py",
+        "lib/audio/mgaudio/__init__.py",
+        "lib/audio/mgaudio/__main__.py",
+        "lib/audio/tools/build_samples.py",
+        "lib/audio/tools/select_vcsl.py",
+        "lib/audio/mgaudio/recipes/base.py",
+        "lib/audio/mgaudio/recipes/chill.py",
+        "lib/audio/mgaudio/recipes/club.py",
+        "lib/audio/mgaudio/recipes/fun.py",
+        "lib/audio/mgaudio/recipes/retro.py",
+        "lib/audio/mgaudio/recipes/world.py",
+        "lib/audio/mgaudio/recipes/__init__.py",
+        "site/vendor/highlight.min.js"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "video-talkcraft",
+      "url": "https://github.com/Vincentwei1021/video-talkcraft",
+      "commit": "a7c29edfb2404612dde6a5a1c8aa94232e85625b",
+      "commit_url": "https://github.com/Vincentwei1021/video-talkcraft/commit/a7c29edfb2404612dde6a5a1c8aa94232e85625b",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "核心视频",
+      "purpose_zh": "按口播语义和素材类型选择镜头、同步字词与画面",
+      "review_depth": "deep",
+      "review_depth_zh": "README、全树、核心工作流/许可、全量卡或15风格文本、相关实现结构；视觉仅指定静帧抽样。",
+      "readme_paths": [
+        "README.md",
+        "template/README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/video-talkcraft/blob/a7c29edfb2404612dde6a5a1c8aa94232e85625b/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/video-talkcraft/tree/a7c29edfb2404612dde6a5a1c8aa94232e85625b/",
+        "root_items": 18,
+        "recursive_file_count": 928
+      },
+      "read_source_file_count": 269,
+      "reviewed_paths": [
+        "LICENSE",
+        "package.json",
+        "README.md",
+        "SKILL.md",
+        "THIRD_PARTY_NOTICES.md",
+        "gallery/build.mjs",
+        "references/broll-sources.md",
+        "references/cards-index.json",
+        "references/cinematography.md",
+        "references/demo-spec.md",
+        "references/design-language.md",
+        "references/host-footage.md",
+        "references/layout.md",
+        "references/review-protocol.md",
+        "references/schematic.md",
+        "references/semantic-annotation.md",
+        "references/shot-design.md",
+        "references/shotbook-example.md",
+        "references/taxonomy.md",
+        "runtime/package.json",
+        "template/README.md",
+        "demos/_lib/demo-shell.js",
+        "demos/_lib/sfx-map.js",
+        "demos/_lib/sfx.js",
+        "references/cards/alt-block-lines.md",
+        "references/cards/bar-chart-growth.md",
+        "references/cards/bed-echo-blur.md",
+        "references/cards/behind-text-title.md",
+        "references/cards/black-slam-transition.md",
+        "references/cards/callout-line-label.md",
+        "references/cards/caret-wipe-transition.md",
+        "references/cards/chapter-progress-list.md",
+        "references/cards/chapter-title-card.md",
+        "references/cards/chart-grow.md",
+        "references/cards/chat-gpt.md",
+        "references/cards/chat-message-flow.md",
+        "references/cards/chevron-lower-third.md",
+        "references/cards/chip-grid-single-select.md",
+        "references/cards/claude-code.md",
+        "references/cards/color-slam-beat-card.md",
+        "references/cards/converging-arrows.md",
+        "references/cards/corner-bracket-frame.md",
+        "references/cards/count-badge-title.md",
+        "references/cards/countdown-arc-scatter.md",
+        "references/cards/crash-zoom-punch.md",
+        "references/cards/cursor-actor-demo.md",
+        "references/cards/cursor-locked-zoom.md",
+        "references/cards/danmu-bubble-praise.md",
+        "references/cards/doc-park-left-pill-deal.md",
+        "references/cards/douyin-follow-card.md",
+        "references/cards/error-retype.md",
+        "references/cards/evidence-scroll-tour.md",
+        "references/cards/filmstrip-conveyor.md",
+        "references/cards/flying-words.md",
+        "references/cards/focus-dim-spotlight.md",
+        "references/cards/gallery-wall-dolly.md",
+        "references/cards/glass-code-walk.md",
+        "references/cards/gooey-morph.md",
+        "references/cards/grid-to-hero.md",
+        "references/cards/hand-drawn-ellipse.md",
+        "references/cards/highlighter-sweep.md",
+        "references/cards/host-card-glass-board.md",
+        "references/cards/host-shrink-to-chip.md",
+        "references/cards/impact-open-title.md",
+        "references/cards/info-card-assemble.md",
+        "references/cards/info-term-card.md",
+        "references/cards/ink-underline.md",
+        "references/cards/keyword-pop-highlight.md",
+        "references/cards/lead-word-zoom-assemble.md",
+        "references/cards/line-by-line-slide.md",
+        "references/cards/line-carry-transition.md",
+        "references/cards/line-chart-story-draw.md",
+        "references/cards/logo-enter.md",
+        "references/cards/long-take-world.md",
+        "references/cards/lower-third-nameplate.md",
+        "references/cards/magnifier-detail.md",
+        "references/cards/map-route-pin.md",
+        "references/cards/media-pop-in.md",
+        "references/cards/metric-with-sparkline.md",
+        "references/cards/motion-blur-slam-in.md",
+        "references/cards/news-card-desk.md",
+        "references/cards/number-counter.md",
+        "references/cards/number-slab-pop.md",
+        "references/cards/numbered-step-stack.md",
+        "references/cards/orbit-drift.md",
+        "references/cards/outline-box-title.md",
+        "references/cards/overexpose-flip-transition.md",
+        "references/cards/parallel-items-with-host.md",
+        "references/cards/particle-weld-transition.md",
+        "references/cards/pencil-sketch-draw.md",
+        "references/cards/per-character-rise.md",
+        "references/cards/pip-zoom-box.md",
+        "references/cards/pullback-cool-transition.md",
+        "references/cards/push-through-transition.md",
+        "references/cards/quote-bracket-pull.md",
+        "references/cards/quote-card.md",
+        "references/cards/quote-hold-arrow.md",
+        "references/cards/rack-focus-pair.md",
+        "references/cards/reticle-lock-on.md",
+        "references/cards/scanline-annotate.md",
+        "references/cards/scribble-annotation.md",
+        "references/cards/shape-wipe-transition.md",
+        "references/cards/slab-punch-title.md",
+        "references/cards/slow-pull-reveal.md",
+        "references/cards/slow-push-in.md",
+        "references/cards/soft-blur-in.md",
+        "references/cards/source-converge.md",
+        "references/cards/speed-slab-title.md",
+        "references/cards/split-60-40-story.md",
+        "references/cards/split-compare-slider.md",
+        "references/cards/split-text-stagger.md",
+        "references/cards/stack-fan-out.md",
+        "references/cards/stage-keyframe-tour.md",
+        "references/cards/step-timeline-vertical.md",
+        "references/cards/still-layout-relay.md",
+        "references/cards/strike-and-replace.md",
+        "references/cards/subscribe-cta.md",
+        "references/cards/sway-parallax.md",
+        "references/cards/terminal-typing-log.md",
+        "references/cards/tilt-3d-page.md",
+        "references/cards/timeline-photo-strip.md",
+        "references/cards/title-demote-to-label.md",
+        "references/cards/tracking-in.md",
+        "references/cards/type-contrast-emphasis.md",
+        "references/cards/typewriter-reveal.md",
+        "references/cards/ui-flow-theater.md",
+        "references/cards/ui-prop-theater.md",
+        "references/cards/unit-grid-proportion.md",
+        "references/cards/whip-pan-transition.md",
+        "references/cards/word-relay-filmstrip.md",
+        "references/cards/word-slot-cycle.md",
+        "references/cards/x-follow-card.md",
+        "template/cards/alt-block-lines.tsx",
+        "template/cards/bar-chart-growth.tsx",
+        "template/cards/bed-echo-blur.tsx",
+        "template/cards/behind-text-title.tsx",
+        "template/cards/black-slam-transition.tsx",
+        "template/cards/callout-line-label.tsx",
+        "template/cards/caret-wipe-transition.tsx",
+        "template/cards/chapter-progress-list.tsx",
+        "template/cards/chapter-title-card.tsx",
+        "template/cards/chart-grow.tsx",
+        "template/cards/chat-gpt.tsx",
+        "template/cards/chat-message-flow.tsx",
+        "template/cards/chevron-lower-third.tsx",
+        "template/cards/chip-grid-single-select.tsx",
+        "template/cards/claude-code.tsx",
+        "template/cards/color-slam-beat-card.tsx",
+        "template/cards/converging-arrows.tsx",
+        "template/cards/corner-bracket-frame.tsx",
+        "template/cards/count-badge-title.tsx",
+        "template/cards/countdown-arc-scatter.tsx",
+        "template/cards/crash-zoom-punch.tsx",
+        "template/cards/cursor-actor-demo.tsx",
+        "template/cards/cursor-locked-zoom.tsx",
+        "template/cards/danmu-bubble-praise.tsx",
+        "template/cards/doc-park-left-pill-deal.tsx",
+        "template/cards/douyin-follow-card.tsx",
+        "template/cards/error-retype.tsx",
+        "template/cards/evidence-scroll-tour.tsx",
+        "template/cards/filmstrip-conveyor.tsx",
+        "template/cards/flying-words.tsx",
+        "template/cards/focus-dim-spotlight.tsx",
+        "template/cards/gallery-wall-dolly.tsx",
+        "template/cards/glass-code-walk.tsx",
+        "template/cards/gooey-morph.tsx",
+        "template/cards/grid-to-hero.tsx",
+        "template/cards/hand-drawn-ellipse.tsx",
+        "template/cards/highlighter-sweep.tsx",
+        "template/cards/host-card-glass-board.tsx",
+        "template/cards/host-shrink-to-chip.tsx",
+        "template/cards/impact-open-title.tsx",
+        "template/cards/info-card-assemble.tsx",
+        "template/cards/info-term-card.tsx",
+        "template/cards/ink-underline.tsx",
+        "template/cards/keyword-pop-highlight.tsx",
+        "template/cards/lead-word-zoom-assemble.tsx",
+        "template/cards/line-by-line-slide.tsx",
+        "template/cards/line-carry-transition.tsx",
+        "template/cards/line-chart-story-draw.tsx",
+        "template/cards/logo-enter.tsx",
+        "template/cards/long-take-world.tsx",
+        "template/cards/lower-third-nameplate.tsx",
+        "template/cards/magnifier-detail.tsx",
+        "template/cards/map-route-pin.tsx",
+        "template/cards/media-pop-in.tsx",
+        "template/cards/metric-with-sparkline.tsx",
+        "template/cards/motion-blur-slam-in.tsx",
+        "template/cards/news-card-desk.tsx",
+        "template/cards/number-counter.tsx",
+        "template/cards/number-slab-pop.tsx",
+        "template/cards/numbered-step-stack.tsx",
+        "template/cards/orbit-drift.tsx",
+        "template/cards/outline-box-title.tsx",
+        "template/cards/overexpose-flip-transition.tsx",
+        "template/cards/parallel-items-with-host.tsx",
+        "template/cards/particle-weld-transition.tsx",
+        "template/cards/pencil-sketch-draw.tsx",
+        "template/cards/per-character-rise.tsx",
+        "template/cards/pip-zoom-box.tsx",
+        "template/cards/pullback-cool-transition.tsx",
+        "template/cards/push-through-transition.tsx",
+        "template/cards/quote-bracket-pull.tsx",
+        "template/cards/quote-card.tsx",
+        "template/cards/quote-hold-arrow.tsx",
+        "template/cards/rack-focus-pair.tsx",
+        "template/cards/reticle-lock-on.tsx",
+        "template/cards/scanline-annotate.tsx",
+        "template/cards/scribble-annotation.tsx",
+        "template/cards/shape-wipe-transition.tsx",
+        "template/cards/slab-punch-title.tsx",
+        "template/cards/slow-pull-reveal.tsx",
+        "template/cards/slow-push-in.tsx",
+        "template/cards/soft-blur-in.tsx",
+        "template/cards/source-converge.tsx",
+        "template/cards/speed-slab-title.tsx",
+        "template/cards/split-60-40-story.tsx",
+        "template/cards/split-compare-slider.tsx",
+        "template/cards/split-text-stagger.tsx",
+        "template/cards/stack-fan-out.tsx",
+        "template/cards/stage-keyframe-tour.tsx",
+        "template/cards/step-timeline-vertical.tsx",
+        "template/cards/still-layout-relay.tsx",
+        "template/cards/strike-and-replace.tsx",
+        "template/cards/subscribe-cta.tsx",
+        "template/cards/sway-parallax.tsx",
+        "template/cards/terminal-typing-log.tsx",
+        "template/cards/tilt-3d-page.tsx",
+        "template/cards/timeline-photo-strip.tsx",
+        "template/cards/title-demote-to-label.tsx",
+        "template/cards/tracking-in.tsx",
+        "template/cards/type-contrast-emphasis.tsx",
+        "template/cards/typewriter-reveal.tsx",
+        "template/cards/ui-flow-theater.tsx",
+        "template/cards/ui-prop-theater.tsx",
+        "template/cards/unit-grid-proportion.tsx",
+        "template/cards/whip-pan-transition.tsx",
+        "template/cards/word-relay-filmstrip.tsx",
+        "template/cards/word-slot-cycle.tsx",
+        "template/cards/x-follow-card.tsx",
+        "template/components/bed.tsx",
+        "template/components/components.tsx",
+        "template/components/lib.tsx",
+        "template/components/mascot.tsx",
+        "template/components/pencil.tsx",
+        "template/components/theme-frame.tsx",
+        "template/motion-systems/anime-remotion.ts",
+        "template/motion-systems/backdrop.tsx",
+        "template/motion-systems/camera.tsx",
+        "template/motion-systems/Counter.tsx",
+        "template/motion-systems/env.tsx",
+        "template/motion-systems/Environment-example.tsx",
+        "template/motion-systems/hooks.ts",
+        "template/motion-systems/icons.ts",
+        "template/motion-systems/life.tsx",
+        "template/motion-systems/longtake.tsx",
+        "template/motion-systems/MainVideo-example.tsx",
+        "template/motion-systems/params.ts",
+        "template/motion-systems/schematic.tsx",
+        "template/motion-systems/shots.ts",
+        "template/motion-systems/Subtitles.tsx",
+        "template/motion-systems/theme.ts",
+        "template/motion-systems/three-anime.ts",
+        "template/motion-systems/time.ts",
+        "template/motion-systems/timing.ts",
+        "template/motion-systems/transitions.tsx",
+        "template/motion-systems/ui.tsx",
+        "template/motion-systems/scenes/index-example.ts",
+        "template/motion-systems/scenes/S1Hook-example.tsx"
+      ],
+      "license": {
+        "status": "PolyForm-Noncommercial-1.0.0",
+        "github_spdx": "NOASSERTION",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/video-talkcraft/blob/a7c29edfb2404612dde6a5a1c8aa94232e85625b/LICENSE"
+        ],
+        "reuse_boundary": "工具包商业使用需另获许可；索引仅记录事实与来源，不包含完整配方或源码。输出影片权利按作者 README 的单独声明及素材许可核对。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "kronos-guide-cn",
+      "url": "https://github.com/Vincentwei1021/kronos-guide-cn",
+      "commit": "bc19d823b9e40baf66b27d49c12250169a8b07c6",
+      "commit_url": "https://github.com/Vincentwei1021/kronos-guide-cn/commit/bc19d823b9e40baf66b27d49c12250169a8b07c6",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "金融 K 线模型中文使用指南",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/kronos-guide-cn/blob/bc19d823b9e40baf66b27d49c12250169a8b07c6/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/kronos-guide-cn/tree/bc19d823b9e40baf66b27d49c12250169a8b07c6/",
+        "root_items": 2,
+        "recursive_file_count": 2
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/kronos-guide-cn/blob/bc19d823b9e40baf66b27d49c12250169a8b07c6/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "Synapse",
+      "url": "https://github.com/Vincentwei1021/Synapse",
+      "commit": "7625af5a05464be04e00d6197a23bb31bcef3dee",
+      "commit_url": "https://github.com/Vincentwei1021/Synapse/commit/7625af5a05464be04e00d6197a23bb31bcef3dee",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "研究流程",
+      "purpose_zh": "研究协调系统；可借鉴证据管理思路，不应作为视频默认依赖",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/Synapse/blob/7625af5a05464be04e00d6197a23bb31bcef3dee/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/Synapse/tree/7625af5a05464be04e00d6197a23bb31bcef3dee/",
+        "root_items": 34,
+        "recursive_file_count": 1816
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE.txt",
+        "README.md"
+      ],
+      "license": {
+        "status": "AGPL-3.0",
+        "github_spdx": "AGPL-3.0",
+        "files": [
+          "LICENSE.txt"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/Synapse/blob/7625af5a05464be04e00d6197a23bb31bcef3dee/LICENSE.txt"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "Vincentwei1021",
+      "url": "https://github.com/Vincentwei1021/Vincentwei1021",
+      "commit": "bfaa2f8a5f94259c3977693bc14fa7fb279cba53",
+      "commit_url": "https://github.com/Vincentwei1021/Vincentwei1021/commit/bfaa2f8a5f94259c3977693bc14fa7fb279cba53",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "作者资料",
+      "purpose_zh": "个人主页和项目入口；不是独立视频能力",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/Vincentwei1021/blob/bfaa2f8a5f94259c3977693bc14fa7fb279cba53/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/Vincentwei1021/tree/bfaa2f8a5f94259c3977693bc14fa7fb279cba53/",
+        "root_items": 2,
+        "recursive_file_count": 12
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "awesome-vibe-research",
+      "url": "https://github.com/Vincentwei1021/awesome-vibe-research",
+      "commit": "61a0008e42d499f4a989fda3a845e2535259dbbb",
+      "commit_url": "https://github.com/Vincentwei1021/awesome-vibe-research/commit/61a0008e42d499f4a989fda3a845e2535259dbbb",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "资源导航",
+      "purpose_zh": "研究工具列表；只按任务需要寻找来源",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/awesome-vibe-research/blob/61a0008e42d499f4a989fda3a845e2535259dbbb/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/awesome-vibe-research/tree/61a0008e42d499f4a989fda3a845e2535259dbbb/",
+        "root_items": 6,
+        "recursive_file_count": 6
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "CC0-1.0",
+        "github_spdx": "CC0-1.0",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/awesome-vibe-research/blob/61a0008e42d499f4a989fda3a845e2535259dbbb/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "awesome-ai-agent-frameworks",
+      "url": "https://github.com/Vincentwei1021/awesome-ai-agent-frameworks",
+      "commit": "2c2eaaea7282a6c0f3fad705da4a9f241cfd22f0",
+      "commit_url": "https://github.com/Vincentwei1021/awesome-ai-agent-frameworks/commit/2c2eaaea7282a6c0f3fad705da4a9f241cfd22f0",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "资源导航",
+      "purpose_zh": "多 Agent 框架中文比较；不是视频镜头库",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/awesome-ai-agent-frameworks/blob/2c2eaaea7282a6c0f3fad705da4a9f241cfd22f0/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/awesome-ai-agent-frameworks/tree/2c2eaaea7282a6c0f3fad705da4a9f241cfd22f0/",
+        "root_items": 5,
+        "recursive_file_count": 12
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/awesome-ai-agent-frameworks/blob/2c2eaaea7282a6c0f3fad705da4a9f241cfd22f0/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "agent-toolbox",
+      "url": "https://github.com/Vincentwei1021/agent-toolbox",
+      "commit": "b296ae12d68f2c33e12ac445adc96000a8281dca",
+      "commit_url": "https://github.com/Vincentwei1021/agent-toolbox/commit/b296ae12d68f2c33e12ac445adc96000a8281dca",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "通用工具",
+      "purpose_zh": "截图/PDF 等工具集合；有具体素材需求时再评估",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/agent-toolbox/blob/b296ae12d68f2c33e12ac445adc96000a8281dca/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/agent-toolbox/tree/b296ae12d68f2c33e12ac445adc96000a8281dca/",
+        "root_items": 22,
+        "recursive_file_count": 111
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/agent-toolbox/blob/b296ae12d68f2c33e12ac445adc96000a8281dca/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "remotion",
+      "url": "https://github.com/Vincentwei1021/remotion",
+      "commit": "a15bdfdf97f3f62d6252c83ef0af0e4bff928fb9",
+      "commit_url": "https://github.com/Vincentwei1021/remotion/commit/a15bdfdf97f3f62d6252c83ef0af0e4bff928fb9",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "remotion-dev/remotion",
+      "video_relation": "视频引擎 fork",
+      "purpose_zh": "程序化 React 视频引擎；不是 Vincent 原创镜头库",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/remotion/blob/a15bdfdf97f3f62d6252c83ef0af0e4bff928fb9/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/remotion/tree/a15bdfdf97f3f62d6252c83ef0af0e4bff928fb9/",
+        "root_items": 33,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE.md",
+        "README.md"
+      ],
+      "license": {
+        "status": "custom-remotion-license",
+        "github_spdx": "NOASSERTION",
+        "files": [
+          "LICENSE.md"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/remotion/blob/a15bdfdf97f3f62d6252c83ef0af0e4bff928fb9/LICENSE.md"
+        ],
+        "reuse_boundary": "独立商业许可条款；不得因 fork 或 API NOASSERTION 视为 MIT。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "megatrain-guide-cn",
+      "url": "https://github.com/Vincentwei1021/megatrain-guide-cn",
+      "commit": "e72b9dafbef4876d82a0f1a53efeb2f2cd06b4eb",
+      "commit_url": "https://github.com/Vincentwei1021/megatrain-guide-cn/commit/e72b9dafbef4876d82a0f1a53efeb2f2cd06b4eb",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "大模型训练的中文资料",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/megatrain-guide-cn/blob/e72b9dafbef4876d82a0f1a53efeb2f2cd06b4eb/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/megatrain-guide-cn/tree/e72b9dafbef4876d82a0f1a53efeb2f2cd06b4eb/",
+        "root_items": 2,
+        "recursive_file_count": 2
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/megatrain-guide-cn/blob/e72b9dafbef4876d82a0f1a53efeb2f2cd06b4eb/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "Granusmart",
+      "url": "https://github.com/Vincentwei1021/Granusmart",
+      "commit": "51fd18b1f7a015d7e3a203af89784e9934315e3a",
+      "commit_url": "https://github.com/Vincentwei1021/Granusmart/commit/51fd18b1f7a015d7e3a203af89784e9934315e3a",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "Granusmart Web 服务；README 信息很少，不能据名推断视频能力",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/Granusmart/blob/51fd18b1f7a015d7e3a203af89784e9934315e3a/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/Granusmart/tree/51fd18b1f7a015d7e3a203af89784e9934315e3a/",
+        "root_items": 13,
+        "recursive_file_count": 253
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "ChatGPT-wechat-bot",
+      "url": "https://github.com/Vincentwei1021/ChatGPT-wechat-bot",
+      "commit": "9f966f0bf9c658ab872229f827baa16b7c5dff9c",
+      "commit_url": "https://github.com/Vincentwei1021/ChatGPT-wechat-bot/commit/9f966f0bf9c658ab872229f827baa16b7c5dff9c",
+      "default_branch": "master",
+      "fork": true,
+      "parent": "AutumnWhj/ChatGPT-wechat-bot",
+      "video_relation": "无直接关系 fork",
+      "purpose_zh": "微信 ChatGPT 机器人；不属于视频制作",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/ChatGPT-wechat-bot/blob/9f966f0bf9c658ab872229f827baa16b7c5dff9c/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/ChatGPT-wechat-bot/tree/9f966f0bf9c658ab872229f827baa16b7c5dff9c/",
+        "root_items": 8,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/ChatGPT-wechat-bot/blob/9f966f0bf9c658ab872229f827baa16b7c5dff9c/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "NUS_CS5228_KDD_Project",
+      "url": "https://github.com/Vincentwei1021/NUS_CS5228_KDD_Project",
+      "commit": "c8341232c5ae6a3d107816883b3e640c24fc0450",
+      "commit_url": "https://github.com/Vincentwei1021/NUS_CS5228_KDD_Project/commit/c8341232c5ae6a3d107816883b3e640c24fc0450",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课程数据挖掘项目",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/NUS_CS5228_KDD_Project/blob/c8341232c5ae6a3d107816883b3e640c24fc0450/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/NUS_CS5228_KDD_Project/tree/c8341232c5ae6a3d107816883b3e640c24fc0450/",
+        "root_items": 5,
+        "recursive_file_count": 7
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "mcp-token-gateway",
+      "url": "https://github.com/Vincentwei1021/mcp-token-gateway",
+      "commit": "275ddbfd42d53512c92abdf2f49d8333239e7076",
+      "commit_url": "https://github.com/Vincentwei1021/mcp-token-gateway/commit/275ddbfd42d53512c92abdf2f49d8333239e7076",
+      "default_branch": "master",
+      "fork": false,
+      "parent": null,
+      "video_relation": "通用基础设施",
+      "purpose_zh": "MCP 工具定义管理；不是视频工作流或风格资源",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/mcp-token-gateway/blob/275ddbfd42d53512c92abdf2f49d8333239e7076/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/mcp-token-gateway/tree/275ddbfd42d53512c92abdf2f49d8333239e7076/",
+        "root_items": 7,
+        "recursive_file_count": 44
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/mcp-token-gateway/blob/275ddbfd42d53512c92abdf2f49d8333239e7076/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "photo-doodle",
+      "url": "https://github.com/Vincentwei1021/photo-doodle",
+      "commit": "51c22008d5f70bd968e769e055ad92cf2481b6ed",
+      "commit_url": "https://github.com/Vincentwei1021/photo-doodle/commit/51c22008d5f70bd968e769e055ad92cf2481b6ed",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接静态美术",
+      "purpose_zh": "照片与涂鸦排版技能，可借鉴素材风格；不是视频导出器",
+      "review_depth": "skill",
+      "review_depth_zh": "无 README；以 SKILL.md 和完整递归树审阅用途；未运行技能。",
+      "readme_paths": [],
+      "readme_is_starter": false,
+      "readme_missing": true,
+      "readme_source_urls": [],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/photo-doodle/tree/51c22008d5f70bd968e769e055ad92cf2481b6ed/",
+        "root_items": 6,
+        "recursive_file_count": 11
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "SKILL.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "screen-snap",
+      "url": "https://github.com/Vincentwei1021/screen-snap",
+      "commit": "6c99fd197e883e10cd47dcfdfa761f5cace7d828",
+      "commit_url": "https://github.com/Vincentwei1021/screen-snap/commit/6c99fd197e883e10cd47dcfdfa761f5cace7d828",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接素材工具",
+      "purpose_zh": "网页截图输入，可服务产品演示；无时间轴",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/screen-snap/blob/6c99fd197e883e10cd47dcfdfa761f5cace7d828/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/screen-snap/tree/6c99fd197e883e10cd47dcfdfa761f5cace7d828/",
+        "root_items": 11,
+        "recursive_file_count": 36
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "chem-balance",
+      "url": "https://github.com/Vincentwei1021/chem-balance",
+      "commit": "ddbd3794f62e509d1b4405832e3f4d8ee8ce9dbd",
+      "commit_url": "https://github.com/Vincentwei1021/chem-balance/commit/ddbd3794f62e509d1b4405832e3f4d8ee8ce9dbd",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "化学方程式配平网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/chem-balance/blob/ddbd3794f62e509d1b4405832e3f4d8ee8ce9dbd/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/chem-balance/tree/ddbd3794f62e509d1b4405832e3f4d8ee8ce9dbd/",
+        "root_items": 12,
+        "recursive_file_count": 31
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "random-grouper",
+      "url": "https://github.com/Vincentwei1021/random-grouper",
+      "commit": "64cc3f140ec7872b2d624fce4e3584216b189cd9",
+      "commit_url": "https://github.com/Vincentwei1021/random-grouper/commit/64cc3f140ec7872b2d624fce4e3584216b189cd9",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课堂随机分组网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/random-grouper/blob/64cc3f140ec7872b2d624fce4e3584216b189cd9/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/random-grouper/tree/64cc3f140ec7872b2d624fce4e3584216b189cd9/",
+        "root_items": 12,
+        "recursive_file_count": 25
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "openclaw",
+      "url": "https://github.com/Vincentwei1021/openclaw",
+      "commit": "8ff1618bfc0505c2f7ee0e3abf302fa5f6033c86",
+      "commit_url": "https://github.com/Vincentwei1021/openclaw/commit/8ff1618bfc0505c2f7ee0e3abf302fa5f6033c86",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "openclaw/openclaw",
+      "video_relation": "通用助手 fork",
+      "purpose_zh": "个人 AI 助手平台；不应强塞进视频技能",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/openclaw/blob/8ff1618bfc0505c2f7ee0e3abf302fa5f6033c86/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/openclaw/tree/8ff1618bfc0505c2f7ee0e3abf302fa5f6033c86/",
+        "root_items": 66,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/openclaw/blob/8ff1618bfc0505c2f7ee0e3abf302fa5f6033c86/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "Scriberr",
+      "url": "https://github.com/Vincentwei1021/Scriberr",
+      "commit": "850af1fb6eff44738a95eef3accc6e86e4066263",
+      "commit_url": "https://github.com/Vincentwei1021/Scriberr/commit/850af1fb6eff44738a95eef3accc6e86e4066263",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "rishikanthc/Scriberr",
+      "video_relation": "间接音频工具 fork",
+      "purpose_zh": "自托管语音转录，可作为字幕/时间戳候选；无动效模板",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/Scriberr/blob/850af1fb6eff44738a95eef3accc6e86e4066263/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/Scriberr/tree/850af1fb6eff44738a95eef3accc6e86e4066263/",
+        "root_items": 51,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/Scriberr/blob/850af1fb6eff44738a95eef3accc6e86e4066263/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "llama_index",
+      "url": "https://github.com/Vincentwei1021/llama_index",
+      "commit": "7d4436cac2fd0fe488c3330234abcca0310cbeae",
+      "commit_url": "https://github.com/Vincentwei1021/llama_index/commit/7d4436cac2fd0fe488c3330234abcca0310cbeae",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "run-llama/llama_index",
+      "video_relation": "通用资料工具 fork",
+      "purpose_zh": "文档检索/Agent 平台；不是视频模板",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/llama_index/blob/7d4436cac2fd0fe488c3330234abcca0310cbeae/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/llama_index/tree/7d4436cac2fd0fe488c3330234abcca0310cbeae/",
+        "root_items": 28,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/llama_index/blob/7d4436cac2fd0fe488c3330234abcca0310cbeae/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "langchain",
+      "url": "https://github.com/Vincentwei1021/langchain",
+      "commit": "3241d6429f756ffacec92cab464ec0291990e60e",
+      "commit_url": "https://github.com/Vincentwei1021/langchain/commit/3241d6429f756ffacec92cab464ec0291990e60e",
+      "default_branch": "master",
+      "fork": true,
+      "parent": "langchain-ai/langchain",
+      "video_relation": "通用基础设施 fork",
+      "purpose_zh": "Agent 应用框架",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/langchain/blob/3241d6429f756ffacec92cab464ec0291990e60e/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/langchain/tree/3241d6429f756ffacec92cab464ec0291990e60e/",
+        "root_items": 17,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/langchain/blob/3241d6429f756ffacec92cab464ec0291990e60e/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "langchain-community",
+      "url": "https://github.com/Vincentwei1021/langchain-community",
+      "commit": "06903695df8941a4057222b93ee7e7cc883874c7",
+      "commit_url": "https://github.com/Vincentwei1021/langchain-community/commit/06903695df8941a4057222b93ee7e7cc883874c7",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "langchain-ai/langchain-community",
+      "video_relation": "通用基础设施 fork",
+      "purpose_zh": "社区模型与服务集成",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/langchain-community/blob/06903695df8941a4057222b93ee7e7cc883874c7/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/langchain-community/tree/06903695df8941a4057222b93ee7e7cc883874c7/",
+        "root_items": 10,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/langchain-community/blob/06903695df8941a4057222b93ee7e7cc883874c7/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "pdf-text-pro",
+      "url": "https://github.com/Vincentwei1021/pdf-text-pro",
+      "commit": "77b4ec1be83273952d62c918b01746d1912076a4",
+      "commit_url": "https://github.com/Vincentwei1021/pdf-text-pro/commit/77b4ec1be83273952d62c918b01746d1912076a4",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接资料工具",
+      "purpose_zh": "PDF 文字提取，可供讲解资料准备",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/pdf-text-pro/blob/77b4ec1be83273952d62c918b01746d1912076a4/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/pdf-text-pro/tree/77b4ec1be83273952d62c918b01746d1912076a4/",
+        "root_items": 13,
+        "recursive_file_count": 39
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "awesome-mcp-servers",
+      "url": "https://github.com/Vincentwei1021/awesome-mcp-servers",
+      "commit": "19ab2af40151412331e86ee3ad7693accf968349",
+      "commit_url": "https://github.com/Vincentwei1021/awesome-mcp-servers/commit/19ab2af40151412331e86ee3ad7693accf968349",
+      "default_branch": "main",
+      "fork": true,
+      "parent": "punkpeye/awesome-mcp-servers",
+      "video_relation": "资源导航 fork",
+      "purpose_zh": "MCP 服务目录；不是视频能力本身",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/awesome-mcp-servers/blob/19ab2af40151412331e86ee3ad7693accf968349/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/awesome-mcp-servers/tree/19ab2af40151412331e86ee3ad7693accf968349/",
+        "root_items": 10,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "MIT",
+        "github_spdx": "MIT",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/awesome-mcp-servers/blob/19ab2af40151412331e86ee3ad7693accf968349/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "ai-daily",
+      "url": "https://github.com/Vincentwei1021/ai-daily",
+      "commit": "d9ef978673ac5db24eff62299f6a4a7db120a2fc",
+      "commit_url": "https://github.com/Vincentwei1021/ai-daily/commit/d9ef978673ac5db24eff62299f6a4a7db120a2fc",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "AI 资讯网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/ai-daily/blob/d9ef978673ac5db24eff62299f6a4a7db120a2fc/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/ai-daily/tree/d9ef978673ac5db24eff62299f6a4a7db120a2fc/",
+        "root_items": 12,
+        "recursive_file_count": 40
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "translate-now",
+      "url": "https://github.com/Vincentwei1021/translate-now",
+      "commit": "ef5d2d4d19a318b1fefe89664feba67307ee57eb",
+      "commit_url": "https://github.com/Vincentwei1021/translate-now/commit/ef5d2d4d19a318b1fefe89664feba67307ee57eb",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接资料工具",
+      "purpose_zh": "多语言文字翻译；不提供配音/字幕时间轴",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/translate-now/blob/ef5d2d4d19a318b1fefe89664feba67307ee57eb/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/translate-now/tree/ef5d2d4d19a318b1fefe89664feba67307ee57eb/",
+        "root_items": 11,
+        "recursive_file_count": 33
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "stroke-order",
+      "url": "https://github.com/Vincentwei1021/stroke-order",
+      "commit": "7c07d770fd850939986bd77b524941143dc5a344",
+      "commit_url": "https://github.com/Vincentwei1021/stroke-order/commit/7c07d770fd850939986bd77b524941143dc5a344",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接教育动画",
+      "purpose_zh": "汉字笔顺演示网页，可作为教学素材来源；无视频导出证明",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/stroke-order/blob/7c07d770fd850939986bd77b524941143dc5a344/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/stroke-order/tree/7c07d770fd850939986bd77b524941143dc5a344/",
+        "root_items": 12,
+        "recursive_file_count": 27
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "func-plot",
+      "url": "https://github.com/Vincentwei1021/func-plot",
+      "commit": "49055440ff4baf14467ba47655728294d560e8c0",
+      "commit_url": "https://github.com/Vincentwei1021/func-plot/commit/49055440ff4baf14467ba47655728294d560e8c0",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接图表工具",
+      "purpose_zh": "函数绘图/PNG 输出；可作为讲解图像输入",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/func-plot/blob/49055440ff4baf14467ba47655728294d560e8c0/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/func-plot/tree/49055440ff4baf14467ba47655728294d560e8c0/",
+        "root_items": 12,
+        "recursive_file_count": 30
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "color-switch",
+      "url": "https://github.com/Vincentwei1021/color-switch",
+      "commit": "19986cb0e7caf2318179534bd39de64029df534b",
+      "commit_url": "https://github.com/Vincentwei1021/color-switch/commit/19986cb0e7caf2318179534bd39de64029df534b",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接配色工具",
+      "purpose_zh": "色值格式转换，可能服务视觉令牌；无视频模板",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/color-switch/blob/19986cb0e7caf2318179534bd39de64029df534b/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/color-switch/tree/19986cb0e7caf2318179534bd39de64029df534b/",
+        "root_items": 9,
+        "recursive_file_count": 36
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "daily-oracle",
+      "url": "https://github.com/Vincentwei1021/daily-oracle",
+      "commit": "fd95a6971477790de7143eeb36bfe82084ad1fae",
+      "commit_url": "https://github.com/Vincentwei1021/daily-oracle/commit/fd95a6971477790de7143eeb36bfe82084ad1fae",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "占卜互动网页，有动画但不是视频模板",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/daily-oracle/blob/fd95a6971477790de7143eeb36bfe82084ad1fae/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/daily-oracle/tree/fd95a6971477790de7143eeb36bfe82084ad1fae/",
+        "root_items": 11,
+        "recursive_file_count": 45
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "autoresearch",
+      "url": "https://github.com/Vincentwei1021/autoresearch",
+      "commit": "228791fb499afffb54b46200aca536f79142f117",
+      "commit_url": "https://github.com/Vincentwei1021/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117",
+      "default_branch": "master",
+      "fork": true,
+      "parent": "karpathy/autoresearch",
+      "video_relation": "无直接关系 fork",
+      "purpose_zh": "单 GPU 训练实验自动研究",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/autoresearch/blob/228791fb499afffb54b46200aca536f79142f117/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/autoresearch/tree/228791fb499afffb54b46200aca536f79142f117/",
+        "root_items": 10,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "email-validator",
+      "url": "https://github.com/Vincentwei1021/email-validator",
+      "commit": "cbf2fe4399c1e36437bfb8a454c146236d158f9e",
+      "commit_url": "https://github.com/Vincentwei1021/email-validator/commit/cbf2fe4399c1e36437bfb8a454c146236d158f9e",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "邮箱语法/DNS 等验证网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/email-validator/blob/cbf2fe4399c1e36437bfb8a454c146236d158f9e/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/email-validator/tree/cbf2fe4399c1e36437bfb8a454c146236d158f9e/",
+        "root_items": 11,
+        "recursive_file_count": 35
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "ip-geek",
+      "url": "https://github.com/Vincentwei1021/ip-geek",
+      "commit": "fb872f150369bf04fb975f6ca9f4224daf3fe1e2",
+      "commit_url": "https://github.com/Vincentwei1021/ip-geek/commit/fb872f150369bf04fb975f6ca9f4224daf3fe1e2",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "IP 信息查询网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/ip-geek/blob/fb872f150369bf04fb975f6ca9f4224daf3fe1e2/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/ip-geek/tree/fb872f150369bf04fb975f6ca9f4224daf3fe1e2/",
+        "root_items": 11,
+        "recursive_file_count": 37
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "competitor-pulse",
+      "url": "https://github.com/Vincentwei1021/competitor-pulse",
+      "commit": "87b2f3b90ef6072fb0cb85e088f021e84d4009b4",
+      "commit_url": "https://github.com/Vincentwei1021/competitor-pulse/commit/87b2f3b90ef6072fb0cb85e088f021e84d4009b4",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "竞品价格监测网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/competitor-pulse/blob/87b2f3b90ef6072fb0cb85e088f021e84d4009b4/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/competitor-pulse/tree/87b2f3b90ef6072fb0cb85e088f021e84d4009b4/",
+        "root_items": 9,
+        "recursive_file_count": 27
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "openclaw-quiz",
+      "url": "https://github.com/Vincentwei1021/openclaw-quiz",
+      "commit": "16e79dc8c5c8973799f02b337caa112cbe00d697",
+      "commit_url": "https://github.com/Vincentwei1021/openclaw-quiz/commit/16e79dc8c5c8973799f02b337caa112cbe00d697",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "AI 使用方式测试网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/openclaw-quiz/blob/16e79dc8c5c8973799f02b337caa112cbe00d697/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/openclaw-quiz/tree/16e79dc8c5c8973799f02b337caa112cbe00d697/",
+        "root_items": 11,
+        "recursive_file_count": 36
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "wechat-scraper-automation",
+      "url": "https://github.com/Vincentwei1021/wechat-scraper-automation",
+      "commit": "6422649f417e4f92532f74adfcbd6510568163a6",
+      "commit_url": "https://github.com/Vincentwei1021/wechat-scraper-automation/commit/6422649f417e4f92532f74adfcbd6510568163a6",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接资料工具",
+      "purpose_zh": "公众号抓取与定时任务；来源、条款和隐私另核，非视频模板",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/wechat-scraper-automation/blob/6422649f417e4f92532f74adfcbd6510568163a6/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/wechat-scraper-automation/tree/6422649f417e4f92532f74adfcbd6510568163a6/",
+        "root_items": 4,
+        "recursive_file_count": 4
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "grade-stats",
+      "url": "https://github.com/Vincentwei1021/grade-stats",
+      "commit": "299592d94290100d0aae640716661a9b3f1852ae",
+      "commit_url": "https://github.com/Vincentwei1021/grade-stats/commit/299592d94290100d0aae640716661a9b3f1852ae",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "成绩统计网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/grade-stats/blob/299592d94290100d0aae640716661a9b3f1852ae/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/grade-stats/tree/299592d94290100d0aae640716661a9b3f1852ae/",
+        "root_items": 12,
+        "recursive_file_count": 29
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "qr-forge",
+      "url": "https://github.com/Vincentwei1021/qr-forge",
+      "commit": "a3523e90d7f9ae5685dccd3bc5f0b06daf07d888",
+      "commit_url": "https://github.com/Vincentwei1021/qr-forge/commit/a3523e90d7f9ae5685dccd3bc5f0b06daf07d888",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "二维码 PNG/SVG 生成网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/qr-forge/blob/a3523e90d7f9ae5685dccd3bc5f0b06daf07d888/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/qr-forge/tree/a3523e90d7f9ae5685dccd3bc5f0b06daf07d888/",
+        "root_items": 14,
+        "recursive_file_count": 56
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "baby-cry-emotion-recognition",
+      "url": "https://github.com/Vincentwei1021/baby-cry-emotion-recognition",
+      "commit": "b60b8707e52969cb37713e07bc6fc1a44250a926",
+      "commit_url": "https://github.com/Vincentwei1021/baby-cry-emotion-recognition/commit/b60b8707e52969cb37713e07bc6fc1a44250a926",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "婴儿哭声情绪识别研究；不能等同配音或音频后期",
+      "review_depth": "readme",
+      "review_depth_zh": "README、完整递归树、根许可证（若存在）；未逐行审计所有业务源码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/baby-cry-emotion-recognition/blob/b60b8707e52969cb37713e07bc6fc1a44250a926/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/baby-cry-emotion-recognition/tree/b60b8707e52969cb37713e07bc6fc1a44250a926/",
+        "root_items": 4,
+        "recursive_file_count": 264
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "random-picker",
+      "url": "https://github.com/Vincentwei1021/random-picker",
+      "commit": "241d999fb5016ec132976587c1860ca3fe886fd2",
+      "commit_url": "https://github.com/Vincentwei1021/random-picker/commit/241d999fb5016ec132976587c1860ca3fe886fd2",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课堂随机点名网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/random-picker/blob/241d999fb5016ec132976587c1860ca3fe886fd2/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/random-picker/tree/241d999fb5016ec132976587c1860ca3fe886fd2/",
+        "root_items": 12,
+        "recursive_file_count": 32
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "math-drill",
+      "url": "https://github.com/Vincentwei1021/math-drill",
+      "commit": "aeeaff5529afd6aac99865cacb3e710b924af416",
+      "commit_url": "https://github.com/Vincentwei1021/math-drill/commit/aeeaff5529afd6aac99865cacb3e710b924af416",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "可打印算术练习网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/math-drill/blob/aeeaff5529afd6aac99865cacb3e710b924af416/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/math-drill/tree/aeeaff5529afd6aac99865cacb3e710b924af416/",
+        "root_items": 12,
+        "recursive_file_count": 28
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "dictation-builder",
+      "url": "https://github.com/Vincentwei1021/dictation-builder",
+      "commit": "7f31a9eb463367ee844f39d18831b0da6fdd3ff7",
+      "commit_url": "https://github.com/Vincentwei1021/dictation-builder/commit/7f31a9eb463367ee844f39d18831b0da6fdd3ff7",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "英语听写练习材料网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/dictation-builder/blob/7f31a9eb463367ee844f39d18831b0da6fdd3ff7/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/dictation-builder/tree/7f31a9eb463367ee844f39d18831b0da6fdd3ff7/",
+        "root_items": 12,
+        "recursive_file_count": 29
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "class-scoreboard",
+      "url": "https://github.com/Vincentwei1021/class-scoreboard",
+      "commit": "8c018d69770be164b603e3b5cbffee5a6de64549",
+      "commit_url": "https://github.com/Vincentwei1021/class-scoreboard/commit/8c018d69770be164b603e3b5cbffee5a6de64549",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课堂小组计分网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/class-scoreboard/blob/8c018d69770be164b603e3b5cbffee5a6de64549/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/class-scoreboard/tree/8c018d69770be164b603e3b5cbffee5a6de64549/",
+        "root_items": 12,
+        "recursive_file_count": 32
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "json-pretty",
+      "url": "https://github.com/Vincentwei1021/json-pretty",
+      "commit": "e06b3bbe43e20f52e06ade6c4b3d7a2cce36957f",
+      "commit_url": "https://github.com/Vincentwei1021/json-pretty/commit/e06b3bbe43e20f52e06ade6c4b3d7a2cce36957f",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "JSON 格式化工具",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/json-pretty/blob/e06b3bbe43e20f52e06ade6c4b3d7a2cce36957f/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/json-pretty/tree/e06b3bbe43e20f52e06ade6c4b3d7a2cce36957f/",
+        "root_items": 9,
+        "recursive_file_count": 36
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "agent-globe",
+      "url": "https://github.com/Vincentwei1021/agent-globe",
+      "commit": "12fe917f047a7709ee620b06ae58d2538caa77f2",
+      "commit_url": "https://github.com/Vincentwei1021/agent-globe/commit/12fe917f047a7709ee620b06ae58d2538caa77f2",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接网页可视化",
+      "purpose_zh": "3D 交互地球与 Agent 展示；不能直接算成片模板",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/agent-globe/blob/12fe917f047a7709ee620b06ae58d2538caa77f2/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/agent-globe/tree/12fe917f047a7709ee620b06ae58d2538caa77f2/",
+        "root_items": 11,
+        "recursive_file_count": 49
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "url-summarizer",
+      "url": "https://github.com/Vincentwei1021/url-summarizer",
+      "commit": "00e3c611108f37c019e987e4cf1afe25776c42ff",
+      "commit_url": "https://github.com/Vincentwei1021/url-summarizer/commit/00e3c611108f37c019e987e4cf1afe25776c42ff",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接资料工具",
+      "purpose_zh": "URL 文章摘要；摘要须回查原文，不代替事实核实",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/url-summarizer/blob/00e3c611108f37c019e987e4cf1afe25776c42ff/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/url-summarizer/tree/00e3c611108f37c019e987e4cf1afe25776c42ff/",
+        "root_items": 11,
+        "recursive_file_count": 35
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "seat-map",
+      "url": "https://github.com/Vincentwei1021/seat-map",
+      "commit": "01433eb8f9c15c8443944050558c045291a92040",
+      "commit_url": "https://github.com/Vincentwei1021/seat-map/commit/01433eb8f9c15c8443944050558c045291a92040",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课堂座位编排网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/seat-map/blob/01433eb8f9c15c8443944050558c045291a92040/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/seat-map/tree/01433eb8f9c15c8443944050558c045291a92040/",
+        "root_items": 12,
+        "recursive_file_count": 30
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "poem-helper",
+      "url": "https://github.com/Vincentwei1021/poem-helper",
+      "commit": "335e73b9497e5ebb902581adbab35a1fede19a6c",
+      "commit_url": "https://github.com/Vincentwei1021/poem-helper/commit/335e73b9497e5ebb902581adbab35a1fede19a6c",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "诗词查阅辅助网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/poem-helper/blob/335e73b9497e5ebb902581adbab35a1fede19a6c/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/poem-helper/tree/335e73b9497e5ebb902581adbab35a1fede19a6c/",
+        "root_items": 12,
+        "recursive_file_count": 28
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "hackathon-demo",
+      "url": "https://github.com/Vincentwei1021/hackathon-demo",
+      "commit": "0e8b9204a9967119fd08457fbfd82ccf6ce8fffa",
+      "commit_url": "https://github.com/Vincentwei1021/hackathon-demo/commit/0e8b9204a9967119fd08457fbfd82ccf6ce8fffa",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "间接网页动效",
+      "purpose_zh": "Three.js 粒子/形变和 CSS 动画展示；未证明可确定性视频渲染",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/hackathon-demo/blob/0e8b9204a9967119fd08457fbfd82ccf6ce8fffa/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/hackathon-demo/tree/0e8b9204a9967119fd08457fbfd82ccf6ce8fffa/",
+        "root_items": 14,
+        "recursive_file_count": 26
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "class-timer",
+      "url": "https://github.com/Vincentwei1021/class-timer",
+      "commit": "3a27fe200e25aa0881ba7d85febad588f9ab175f",
+      "commit_url": "https://github.com/Vincentwei1021/class-timer/commit/3a27fe200e25aa0881ba7d85febad588f9ab175f",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "课堂计时器",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/class-timer/blob/3a27fe200e25aa0881ba7d85febad588f9ab175f/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/class-timer/tree/3a27fe200e25aa0881ba7d85febad588f9ab175f/",
+        "root_items": 12,
+        "recursive_file_count": 24
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "funNLP",
+      "url": "https://github.com/Vincentwei1021/funNLP",
+      "commit": "5da5ac5a5e665902d538ff9faf461186356afac4",
+      "commit_url": "https://github.com/Vincentwei1021/funNLP/commit/5da5ac5a5e665902d538ff9faf461186356afac4",
+      "default_branch": "master",
+      "fork": true,
+      "parent": "fighting41love/funNLP",
+      "video_relation": "资源导航 fork",
+      "purpose_zh": "NLP 资源汇总，含语音相关条目但本仓不是视频工具",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/funNLP/blob/5da5ac5a5e665902d538ff9faf461186356afac4/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/funNLP/tree/5da5ac5a5e665902d538ff9faf461186356afac4/",
+        "root_items": 3,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 1,
+      "reviewed_paths": [
+        "README.md"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "epoch-now",
+      "url": "https://github.com/Vincentwei1021/epoch-now",
+      "commit": "ef194e3cb735101e175d2bb10d868d6745557a34",
+      "commit_url": "https://github.com/Vincentwei1021/epoch-now/commit/ef194e3cb735101e175d2bb10d868d6745557a34",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "时间戳转换网页",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/epoch-now/blob/ef194e3cb735101e175d2bb10d868d6745557a34/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/epoch-now/tree/ef194e3cb735101e175d2bb10d868d6745557a34/",
+        "root_items": 9,
+        "recursive_file_count": 35
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "toolbox-home",
+      "url": "https://github.com/Vincentwei1021/toolbox-home",
+      "commit": "bfc3eaa3e777032869a89d5a332ad9be62026efb",
+      "commit_url": "https://github.com/Vincentwei1021/toolbox-home/commit/bfc3eaa3e777032869a89d5a332ad9be62026efb",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "资源导航",
+      "purpose_zh": "小工具导航站",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/toolbox-home/blob/bfc3eaa3e777032869a89d5a332ad9be62026efb/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/toolbox-home/tree/bfc3eaa3e777032869a89d5a332ad9be62026efb/",
+        "root_items": 14,
+        "recursive_file_count": 41
+      },
+      "read_source_file_count": 4,
+      "reviewed_paths": [
+        "CLAUDE.md",
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "stock",
+      "url": "https://github.com/Vincentwei1021/stock",
+      "commit": "e6e3e88841fc5894fb33339057f3861fe3b05b68",
+      "commit_url": "https://github.com/Vincentwei1021/stock/commit/e6e3e88841fc5894fb33339057f3861fe3b05b68",
+      "default_branch": "master",
+      "fork": true,
+      "parent": "pythonstock/stock",
+      "video_relation": "无直接关系 fork",
+      "purpose_zh": "Python 股票系统",
+      "review_depth": "root",
+      "review_depth_zh": "README、根树、根许可证（若存在）；未审计上游全代码。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": false,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/stock/blob/e6e3e88841fc5894fb33339057f3861fe3b05b68/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": false,
+        "recursive_truncated": null,
+        "tree_source_url": "https://github.com/Vincentwei1021/stock/tree/e6e3e88841fc5894fb33339057f3861fe3b05b68/",
+        "root_items": 13,
+        "recursive_file_count": null
+      },
+      "read_source_file_count": 2,
+      "reviewed_paths": [
+        "LICENSE",
+        "README.md"
+      ],
+      "license": {
+        "status": "Apache-2.0",
+        "github_spdx": "Apache-2.0",
+        "files": [
+          "LICENSE"
+        ],
+        "urls": [
+          "https://github.com/Vincentwei1021/stock/blob/e6e3e88841fc5894fb33339057f3861fe3b05b68/LICENSE"
+        ],
+        "reuse_boundary": "保留对应许可证与署名；第三方字体、音频、图片、数据另核。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    },
+    {
+      "name": "price-widget",
+      "url": "https://github.com/Vincentwei1021/price-widget",
+      "commit": "a52f592fef5b60a84403ceff722310172785c190",
+      "commit_url": "https://github.com/Vincentwei1021/price-widget/commit/a52f592fef5b60a84403ceff722310172785c190",
+      "default_branch": "main",
+      "fork": false,
+      "parent": null,
+      "video_relation": "无直接关系",
+      "purpose_zh": "股票/加密资产价格组件",
+      "review_depth": "app",
+      "review_depth_zh": "通用 Next.js README、完整递归树，并补读页面/布局/CLAUDE；未运行网页。",
+      "readme_paths": [
+        "README.md"
+      ],
+      "readme_is_starter": true,
+      "readme_missing": false,
+      "readme_source_urls": [
+        "https://github.com/Vincentwei1021/price-widget/blob/a52f592fef5b60a84403ceff722310172785c190/README.md"
+      ],
+      "tree_review": {
+        "root_reviewed": true,
+        "recursive_reviewed": true,
+        "recursive_truncated": false,
+        "tree_source_url": "https://github.com/Vincentwei1021/price-widget/tree/a52f592fef5b60a84403ceff722310172785c190/",
+        "root_items": 9,
+        "recursive_file_count": 38
+      },
+      "read_source_file_count": 3,
+      "reviewed_paths": [
+        "README.md",
+        "src/app/layout.tsx",
+        "src/app/page.tsx"
+      ],
+      "license": {
+        "status": "no-license-found-in-reviewed-root",
+        "github_spdx": null,
+        "files": [],
+        "urls": [],
+        "reuse_boundary": "未在已审查根目录发现项目许可证；不据此取得复制、改编或再分发许可。",
+        "checked_at": "2026-10-28",
+        "scope": "root license text and notices where present; complete tree for non-forks"
+      },
+      "executed_or_installed": false,
+      "full_demo_playback": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "id": "asset-001",
+      "kind": "image|video|audio|font|component|data|article",
+      "purpose": "本镜头要解释的真实对象或信息关系",
+      "source_page": "https://example.org/replace-with-verified-source",
+      "author_or_publisher": "待核实",
+      "published_date": null,
+      "accessed_at": null,
+      "version_or_commit": null,
+      "fact_locator": "原文页码/段落/视频时间码/数据表及口径",
+      "rights": {
+        "license": "UNVERIFIED",
+        "license_url": null,
+        "attribution": null,
+        "reference_only": true,
+        "may_include_in_video": false,
+        "may_redistribute_source": false,
+        "evidence": null
+      },
+      "local_original": "assets/source/replace-with-real-file",
+      "local_derived": null,
+      "sha256": null,
+      "transformation": null,
+      "shot_ids": [],
+      "source_in_out_seconds": null,
+      "used_in_output": false,
+      "render_verification": null,
+      "notes": "示例不是已获取或已授权资产；真实项目删去占位项并逐文件填写。"
+    }
+  ]
+}

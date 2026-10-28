@@ -1,0 +1,11 @@
+{
+  "title":"待填项目名",
+  "brief":{"goal":"观众看完理解/行动什么","audience":"目标受众","platform":"实际平台","width":1080,"height":1920,"fps":30,"duration_seconds":30,"audio_required":false,"audio_reason":"示例按静音设计，真实项目遵从用户","deliverables":["mp4","editable-project"],"budget":"use existing/free authorized resources"},
+  "assumptions":["仅记录本项目可逆的合理假设，不覆盖用户已给信息"],
+  "reference_contracts":[{"url":"填实际来源","version":"核验版本","licence":"未核验","access":"未核验","observation":"未核验","transfer":"布局/字体/轨迹/节奏的具体锚点","adaptation":"针对本片的有理由调整"}],
+  "design":{"palette":"editorial-vermilion","display_font":{"file":"填实际文件","licence":"未核验","axes":[]},"body_font":{"file":"填实际文件","licence":"未核验"},"motif":"一种贯穿镜头的视觉线索"},
+  "asset_manifest":"asset-manifest.json（按asset-manifest.example.json登记必要联网素材及实际镜头用途）",
+  "assets":[{"id":"asset-1","file":"填实际输入","role":"事实/产品/旁白/装饰","source":"来源","rights":"未核验"}],
+  "shots":[{"id":"S01","start":0,"end":5,"purpose":"开头提出问题","copy":"一个主句","asset_ids":[],"component":"declaration-title","reference":"填实际卡/演示/参数出处","motion":{"enter":0.5,"hold":4,"exit":0.5},"transition":{"kind":"match-cut","reason":"保留文字形状连接下一镜"},"sound":"none","checks":["中文断行","最小显示尺寸","稳定阅读时间"]}],
+  "unknowns":["实际制作时逐项解决或在交付中保留，不自动变成已验证"]
+}

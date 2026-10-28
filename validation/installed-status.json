@@ -1,0 +1,24 @@
+{
+  "installed_reader": [
+    {
+      "name": "vincent",
+      "installed_reader_cache_and_identity_pass": true
+    },
+    {
+      "name": "yanshuo",
+      "installed_reader_cache_and_identity_pass": true
+    },
+    {
+      "name": "xiaofeng",
+      "installed_reader_cache_and_identity_pass": true
+    }
+  ],
+  "internal_skills_preserved": {
+    "motion": true,
+    "motiongit": true,
+    "video-shotcraft": true,
+    "video-link-reader": true
+  },
+  "motion_mcp_default_enabled": false,
+  "persistent_template_unchanged": true
+}

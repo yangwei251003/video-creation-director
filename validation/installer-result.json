@@ -1,0 +1,6 @@
+{
+  "test": "fixture upgrade with personal local-environment.json",
+  "backup_verified": true,
+  "personal_setting_retained": true,
+  "installed_tree_verified": true
+}

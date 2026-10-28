@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "note": "Original starting points. Check actual font files, contrast, footage, brand and target display; palettes are not guarantees.",
+  "palettes": [
+    {"id":"editorial-vermilion","name":"编辑朱砂","bg":"#F2EDE4","ink":"#202720","accent":"#A92F1D","muted":"#5E665E","surface":"#E3DDCF","display":"Noto Serif SC","body":"Noto Sans SC","material":"paper","motion":"calm reveal","use":"文化、观点、编辑叙事"},
+    {"id":"graphite-lime","name":"石墨青柠","bg":"#101813","ink":"#F1F5EA","accent":"#CEF36F","muted":"#A9B8A6","surface":"#26342A","display":"Noto Sans SC","body":"Noto Sans SC","material":"precise matte","motion":"snappy settle","use":"科技产品、结构、数据"},
+    {"id":"cobalt-paper","name":"钴蓝纸白","bg":"#F3F4EE","ink":"#173993","accent":"#9E2D0A","muted":"#4E5C7D","surface":"#DEE4F4","display":"Noto Sans SC","body":"Noto Sans SC","material":"flat geometry","motion":"shape relay","use":"知识解释、清晰几何"},
+    {"id":"forest-cream","name":"森林奶油","bg":"#173B32","ink":"#FFF2D4","accent":"#EFBA71","muted":"#C1CFB8","surface":"#2A5146","display":"LXGW WenKai","body":"Noto Sans SC","material":"soft organic","motion":"gentle annotation","use":"人文、自然、手作解释"},
+    {"id":"midnight-coral","name":"夜幕珊瑚","bg":"#141B31","ink":"#F6F0E9","accent":"#FFAC93","muted":"#BCC6DA","surface":"#29334E","display":"Noto Serif SC","body":"Noto Sans SC","material":"directional light","motion":"slow parallax","use":"品牌、叙事、情绪"},
+    {"id":"gallery-plum","name":"展览紫","bg":"#EEE7F3","ink":"#432653","accent":"#762C6B","muted":"#6C5779","surface":"#DED0E8","display":"Noto Serif SC","body":"Noto Sans SC","material":"gallery space","motion":"match cut","use":"设计、艺术、展览"}
+  ],
+  "motion": {"reveal_seconds":[0.3,0.55],"phrase_stagger_seconds":[0.08,0.16],"out_cubic":[0.16,1,0.3,1],"note":"Starting ranges only. Use selected reference parameters and actual reading/voice timing."},
+  "safe_area": {"vertical_1080":{"left":80,"right":100,"top":130,"bottom":260},"horizontal_1920":{"left":100,"right":100,"top":80,"bottom":100},"note":"Conservative starting boxes. Verify platform overlays, subtitles and delivery specification."}
+}

@@ -1,0 +1,104 @@
+{
+  "duration_seconds": 15,
+  "scope": {
+    "kind": "full_film",
+    "time_range": [
+      0,
+      15
+    ]
+  },
+  "audio_required": false,
+  "audio_intent": "silent_design_authorized",
+  "coverage": {
+    "continuous_video_full": false,
+    "listened_full": false
+  },
+  "references": [
+    {
+      "source": "填实际参考URL或文件",
+      "observed_methods": [
+        "page"
+      ],
+      "observed_scope": "仅查看介绍，待观看",
+      "comparison": "待填写真实对照"
+    }
+  ],
+  "gates": {
+    "brief": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    },
+    "facts": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    },
+    "rights": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    },
+    "legibility": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    },
+    "media_integrity": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    },
+    "deliverables": {
+      "status": "not_verified",
+      "reason": "待实际检查"
+    }
+  },
+  "dimensions": {
+    "narrative": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    },
+    "pacing": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    },
+    "typography": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    },
+    "motion": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    },
+    "audio": {
+      "status": "not_applicable",
+      "reason": "此示例设计为静音，真实项目依据用户要求填写"
+    },
+    "technical": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    },
+    "style": {
+      "status": "not_verified",
+      "score": null,
+      "reason": "待实际检查",
+      "evidence": []
+    }
+  },
+  "issues": [],
+  "evidence_record_format": {
+    "file": "实际本地证据文件相对review路径",
+    "kind": "frame",
+    "time_range": [
+      0,
+      0
+    ],
+    "observation": "记录此时间点真实观察，不能写自动通过"
+  }
+}

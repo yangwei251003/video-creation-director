@@ -1,0 +1,108 @@
+{
+  "input_name": "design-lab-wide.mp4",
+  "sha256": "60a5f8c7adfaa79027fcda946cfd424157f253a622eab50bb68a21c954ad831f",
+  "duration_seconds": 15.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "video_codec": "h264",
+  "audio": [],
+  "decode_passed": true,
+  "failures": [],
+  "samples": [
+    {
+      "time": 0.0,
+      "file": "frame-000.jpg",
+      "success": true
+    },
+    {
+      "time": 3.75,
+      "file": "frame-001.jpg",
+      "success": true
+    },
+    {
+      "time": 4.85,
+      "file": "frame-002.jpg",
+      "success": true
+    },
+    {
+      "time": 5.0,
+      "file": "frame-003.jpg",
+      "success": true
+    },
+    {
+      "time": 5.07,
+      "file": "frame-004.jpg",
+      "success": true
+    },
+    {
+      "time": 5.15,
+      "file": "frame-005.jpg",
+      "success": true
+    },
+    {
+      "time": 5.22,
+      "file": "frame-006.jpg",
+      "success": true
+    },
+    {
+      "time": 5.37,
+      "file": "frame-007.jpg",
+      "success": true
+    },
+    {
+      "time": 7.5,
+      "file": "frame-008.jpg",
+      "success": true
+    },
+    {
+      "time": 9.85,
+      "file": "frame-009.jpg",
+      "success": true
+    },
+    {
+      "time": 10.0,
+      "file": "frame-010.jpg",
+      "success": true
+    },
+    {
+      "time": 10.1,
+      "file": "frame-011.jpg",
+      "success": true
+    },
+    {
+      "time": 10.15,
+      "file": "frame-012.jpg",
+      "success": true
+    },
+    {
+      "time": 10.25,
+      "file": "frame-013.jpg",
+      "success": true
+    },
+    {
+      "time": 10.4,
+      "file": "frame-014.jpg",
+      "success": true
+    },
+    {
+      "time": 11.25,
+      "file": "frame-015.jpg",
+      "success": true
+    },
+    {
+      "time": 14.9667,
+      "file": "frame-016.jpg",
+      "success": true
+    }
+  ],
+  "status": "TECHNICAL_PASS",
+  "not_verified": [
+    "continuous motion",
+    "audio listening",
+    "semantic accuracy",
+    "font glyph coverage",
+    "licences",
+    "aesthetic/reference parity"
+  ]
+}

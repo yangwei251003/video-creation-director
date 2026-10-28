@@ -1,0 +1,7 @@
+interface:
+  display_name: "视频创作总导演"
+  short_description: "统一视频入口：需求理解、模板对照、字体与镜头设计、制作及证据验收"
+  brand_color: "#D34932"
+  default_prompt: "使用 $video-creation-director，根据已有信息直接制作视频，选择合适参考并完成质量核验。"
+policy:
+  allow_implicit_invocation: true

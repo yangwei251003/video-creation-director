@@ -1,0 +1,32 @@
+{
+  "type": "local_ocr_contract_test",
+  "third_party_content_included": false,
+  "source_sha256_before_and_after": "565112ef75fed241405684f67355f9a5525a6dd77f5fe7d6534896e68ad99946",
+  "script_sha256": "bcf763ddd05fb5ab2936f94a13471432b86403fde67d55cfd2770c88b721d838",
+  "network": "disabled during test",
+  "new_media_downloaded": false,
+  "installed_dependencies": false,
+  "sampled_frame_count": 1,
+  "requested_time_seconds": 12.0,
+  "decoded_time_seconds": 12.0,
+  "decoded_frame_index": 360,
+  "ocr_text_item_count": 32,
+  "confidence_min": 0.51559,
+  "confidence_max": 0.99995,
+  "checks": {
+    "single_frame": true,
+    "sampled_type": true,
+    "not_continuous_review": true,
+    "warning_present": true,
+    "requested_time_preserved": true,
+    "decoded_time_present": true,
+    "decoded_frame_present": true,
+    "image_exists": true,
+    "ocr_arrays_aligned": true,
+    "ocr_text_detected": true,
+    "scores_finite_in_unit_interval": true,
+    "source_unchanged": true
+  },
+  "passed": true,
+  "scope_notice": "One automated frame OCR only; no full viewing, listening, OCR accuracy certification or public redistribution."
+}

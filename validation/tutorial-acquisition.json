@@ -1,0 +1,41 @@
+[
+  {
+    "name": "vincent",
+    "id": "7697976597185435475",
+    "source": "https://www.douyin.com/video/7697976597185435475",
+    "bytes": 22765602,
+    "sha256": "ddd0174c8631773f4d511326d518a6854c0cc0d0066444750b7644942e011464",
+    "duration_seconds": 248.9875625,
+    "asr_segments": 92,
+    "download_success": true,
+    "full_audio_asr_processed": true,
+    "manual_listening": false,
+    "continuous_video_review": false
+  },
+  {
+    "name": "yanshuo",
+    "id": "7697646551179381498",
+    "source": "https://www.douyin.com/video/7697646551179381498",
+    "bytes": 60342065,
+    "sha256": "fc95e93e20742b05d9073122ed5909424e73b342f12bb6043bb713e22df413f0",
+    "duration_seconds": 966.252,
+    "asr_segments": 398,
+    "download_success": true,
+    "full_audio_asr_processed": true,
+    "manual_listening": false,
+    "continuous_video_review": false
+  },
+  {
+    "name": "xiaofeng",
+    "id": "7696040551015025929",
+    "source": "https://www.douyin.com/video/7696040551015025929",
+    "bytes": 9566239,
+    "sha256": "565112ef75fed241405684f67355f9a5525a6dd77f5fe7d6534896e68ad99946",
+    "duration_seconds": 205.078625,
+    "asr_segments": 63,
+    "download_success": true,
+    "full_audio_asr_processed": true,
+    "manual_listening": false,
+    "continuous_video_review": false
+  }
+]

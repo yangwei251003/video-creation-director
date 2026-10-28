@@ -1,0 +1,8 @@
+{
+  "script_sha256": "bcf763ddd05fb5ab2936f94a13471432b86403fde67d55cfd2770c88b721d838",
+  "tests": 20,
+  "failures": [],
+  "errors": [],
+  "passed": 20,
+  "network": "mocked; no download"
+}

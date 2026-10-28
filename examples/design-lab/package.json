@@ -1,0 +1,8 @@
+{
+  "name": "video-director-design-lab",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {"studio":"remotion studio --no-open", "check":"tsc --noEmit", "render:wide":"remotion render src/index.ts DesignLabWide out/design-lab-wide.mp4", "render:vertical":"remotion render src/index.ts DesignLabVertical out/design-lab-vertical.mp4"},
+  "dependencies": {"react":"19.2.0","react-dom":"19.2.0","remotion":"4.0.539","@remotion/cli":"4.0.539","@remotion/fonts":"4.0.539"},
+  "devDependencies": {"@types/react":"19.2.2","@types/react-dom":"19.2.2","typescript":"5.9.3"}
+}

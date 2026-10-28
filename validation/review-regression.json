@@ -1,0 +1,374 @@
+{
+  "scope": "Final bounded synthetic record regression; no aesthetic or real viewing claim",
+  "script_sha256": "4b750b2da0d2fb37fc49796d60dd7f25bba740223189a2fc23d54715d6d7f397",
+  "count": 20,
+  "status_matches": 20,
+  "results": [
+    {
+      "case": "01_complete_control",
+      "expected": "PASS_RECORD_ONLY",
+      "actual": {
+        "status": "PASS_RECORD_ONLY",
+        "total": 100.0,
+        "raw_total": 100.0,
+        "errors": [],
+        "unverified": [],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 0,
+      "matches_expected_status": true,
+      "why": "Legal revised-schema synthetic control"
+    },
+    {
+      "case": "02_string_false",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "raw_total": null,
+        "errors": [
+          "continuous_video_full must be boolean",
+          "listened_full must be boolean"
+        ],
+        "unverified": [
+          "continuous full video review:pacing",
+          "continuous full video review:motion",
+          "full audio listening"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Strict boolean coverage"
+    },
+    {
+      "case": "03_three_stills",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "relevant evidence type:narrative",
+          "full duration evidence:pacing",
+          "full duration evidence:motion",
+          "full duration evidence:audio",
+          "relevant evidence type:technical"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Frame evidence cannot replace continuous viewing or listening"
+    },
+    {
+      "case": "04_partial_spans",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "full duration evidence:pacing",
+          "full duration evidence:motion",
+          "full duration evidence:audio"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Only 0-3 seconds observed"
+    },
+    {
+      "case": "05_preview_scope",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "full-film scope; previews cannot receive a full-film total"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Preview scope cannot produce whole-film total"
+    },
+    {
+      "case": "06_unknown_issue_severity",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "raw_total": null,
+        "errors": [
+          "invalid issue record"
+        ],
+        "unverified": [],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Unknown issue enum"
+    },
+    {
+      "case": "07_goal_impact_minor",
+      "expected": "NEEDS_REVISION",
+      "actual": {
+        "status": "NEEDS_REVISION",
+        "total": 100.0,
+        "raw_total": 100.0,
+        "errors": [],
+        "unverified": [],
+        "failures": [
+          "unresolved issue:goal"
+        ],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Goal-impacting unresolved minor issue"
+    },
+    {
+      "case": "08_resolved_no_retest",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "raw_total": null,
+        "errors": [
+          "resolved issue needs fix and retest"
+        ],
+        "unverified": [],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Missing retest record"
+    },
+    {
+      "case": "09_null_coverage",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "errors": [
+          "coverage must be an object"
+        ]
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Malformed container returns structured INVALID"
+    },
+    {
+      "case": "10_list_gates",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "errors": [
+          "gates must be an object"
+        ]
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Malformed container returns structured INVALID"
+    },
+    {
+      "case": "11_low_dimension",
+      "expected": "NEEDS_REVISION",
+      "actual": {
+        "status": "NEEDS_REVISION",
+        "total": 94.0,
+        "raw_total": 94.0,
+        "errors": [],
+        "unverified": [],
+        "failures": [
+          "below 4/5:motion"
+        ],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Per-dimension minimum"
+    },
+    {
+      "case": "12_valid_silent",
+      "expected": "PASS_RECORD_ONLY",
+      "actual": {
+        "status": "PASS_RECORD_ONLY",
+        "total": 97.65,
+        "raw_total": 97.6470588235294,
+        "errors": [],
+        "unverified": [],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 0,
+      "matches_expected_status": true,
+      "why": "Expected weighted total 97.65"
+    },
+    {
+      "case": "13_rounding_threshold",
+      "expected": "NEEDS_REVISION",
+      "actual": {
+        "status": "NEEDS_REVISION",
+        "total": 90.0,
+        "raw_total": 89.99799999999999,
+        "errors": [],
+        "unverified": [],
+        "failures": [
+          "below 90/100"
+        ],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Raw score is 89.998, below 90 before display rounding"
+    },
+    {
+      "case": "14_repeated_40ms_gaps",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "full duration evidence:pacing",
+          "full duration evidence:motion",
+          "full duration evidence:audio"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "300 observations total 3 seconds; 12 seconds are unobserved but per-gap tolerance accumulates"
+    },
+    {
+      "case": "15_zero_duration_point_chain",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "full duration evidence:pacing",
+          "full duration evidence:motion",
+          "full duration evidence:audio"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Zero-duration points must not create continuous time coverage"
+    },
+    {
+      "case": "16_goal_impact_string",
+      "expected": "INVALID",
+      "actual": {
+        "status": "INVALID",
+        "total": null,
+        "raw_total": null,
+        "errors": [
+          "affects_goal must be boolean"
+        ],
+        "unverified": [],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "affects_goal needs strict boolean validation when present"
+    },
+    {
+      "case": "17_boolean_scope_range",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "full-film scope; previews cannot receive a full-film total"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Python list equality treats False/True as 0/1 without scope range validation"
+    },
+    {
+      "case": "18_reference_not_compared",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "visual reference observation"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Structured reference observation and performed comparison are still absent from schema"
+    },
+    {
+      "case": "19_na_from_absent_track",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "explicit silent intent"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "No structured authorized/design silence basis"
+    },
+    {
+      "case": "20_wrong_evidence_modalities",
+      "expected": "INCOMPLETE",
+      "actual": {
+        "status": "INCOMPLETE",
+        "total": null,
+        "raw_total": null,
+        "errors": [],
+        "unverified": [
+          "relevant evidence type:narrative",
+          "relevant evidence type:typography",
+          "relevant evidence type:technical",
+          "relevant evidence type:style"
+        ],
+        "failures": [],
+        "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+      },
+      "exit_code": 2,
+      "matches_expected_status": true,
+      "why": "Audio listening alone cannot support typography/style/technical verdicts"
+    }
+  ]
+}

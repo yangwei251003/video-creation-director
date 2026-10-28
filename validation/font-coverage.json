@@ -1,0 +1,26 @@
+[
+  {
+    "font": "NotoSansSC.ttf",
+    "tested_unique_chinese_and_fullwidth_characters": 67,
+    "missing": [],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "max": 900.0
+      }
+    ]
+  },
+  {
+    "font": "NotoSerifSC.ttf",
+    "tested_unique_chinese_and_fullwidth_characters": 67,
+    "missing": [],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 200.0,
+        "max": 900.0
+      }
+    ]
+  }
+]
