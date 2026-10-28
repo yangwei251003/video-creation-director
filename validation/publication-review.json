@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-28",
+  "scope": "Public archive inspection, after full staged-tree review",
+  "private_machine_paths_or_token_patterns_found": false,
+  "third_party_video_or_transcript_files_staged": false,
+  "published_binary_assets": "Only original Remotion videos/frames and unmodified OFL Noto fonts",
+  "protected_paths_ignored": [
+    ".research-sources/",
+    "installation-local.json",
+    "local-environment.json",
+    "validation/video-reader/private-ocr/",
+    "validation/video-reader/fixtures/"
+  ],
+  "source_files_reviewed": 121,
+  "note": "Pattern scan plus file-by-file archive inventory; not an assertion that all possible secret formats are mechanically detectable."
+}
