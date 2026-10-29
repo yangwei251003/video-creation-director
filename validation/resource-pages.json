@@ -1,0 +1,660 @@
+{
+  "method": "headless bundled Chromium, not foreground input",
+  "pages": [
+    {
+      "id": "starter:ink-serif",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:bold-outline",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:gold-foil",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:neon-line",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:magazine-cutout",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 125.89144897460938,
+          "y": 290.54736328125,
+          "right": 882.1084899902344,
+          "bottom": 506.04638671875,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:comic-burst",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:rise",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:stagger",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:blur",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:tracking",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:clip",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:count",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 460,
+          "right": 343,
+          "bottom": 559.890625,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 629,
+          "right": 614,
+          "bottom": 686.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:orbit",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:sweep",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:glass",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 900,
+          "bottom": 528.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:particles",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 808,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 614,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:wipe",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        },
+        {
+          "id": "subtitle",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "id": "starter:iris",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        },
+        {
+          "id": "subtitle",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "id": "starter:shutter",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        },
+        {
+          "id": "subtitle",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "id": "starter:dip",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        },
+        {
+          "id": "subtitle",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "id": "starter:warm",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 1003,
+          "bottom": 445,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 818,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:cool",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 1003,
+          "bottom": 445,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 818,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:mono",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 1003,
+          "bottom": 445,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 818,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:film",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 1003,
+          "bottom": 445,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 818,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:chapter",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 310,
+          "right": 834.015625,
+          "bottom": 466.59375,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 566,
+          "right": 750,
+          "bottom": 623.796875,
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "id": "starter:compare",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 210,
+          "right": 599,
+          "bottom": 304.5,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 0,
+          "y": 0,
+          "right": 0,
+          "bottom": 0,
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "id": "starter:evidence",
+      "title_override_preserved": true,
+      "deterministic": true,
+      "errors": [],
+      "geometry": [
+        {
+          "id": "title",
+          "x": 130,
+          "y": 180,
+          "right": 704,
+          "bottom": 294.75,
+          "display": "block"
+        },
+        {
+          "id": "subtitle",
+          "x": 138,
+          "y": 394,
+          "right": 546,
+          "bottom": 567.390625,
+          "display": "block"
+        }
+      ]
+    }
+  ],
+  "all_deterministic": true,
+  "catalog": {
+    "nasa_results_on_page": 3,
+    "audio_results_on_page": 24,
+    "native_results_on_page": 24,
+    "interactive_preview_seek_and_play": true
+  }
+}

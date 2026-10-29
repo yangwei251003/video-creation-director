@@ -1,0 +1,52 @@
+{
+  "version": "OpenFilm 0.2.6",
+  "method": "unchanged upstream native edit planner plus running installed Studio API",
+  "baseline": "d69f246dd375b9e09939b5bef7b7430daff2d75c",
+  "results": [
+    {
+      "check": "native linked move",
+      "pass": true,
+      "ids": [
+        "observe",
+        "v-observe",
+        "sfx-observe"
+      ],
+      "delta_seconds": 26,
+      "audio_offset_seconds": 0.7
+    },
+    {
+      "check": "inverse native move restores timeline",
+      "pass": true,
+      "scope": "backend operation; UI Ctrl+Z not tested"
+    },
+    {
+      "check": "short SFX linked-trim limitation",
+      "requested_ms": -1000,
+      "allowed_ms": 0,
+      "decision": "Trim picture/page alone (native Alt-alone behavior), preserve SFX event, recheck timing"
+    },
+    {
+      "check": "trim visuals while preserving short SFX",
+      "pass": true,
+      "remaining_scene_seconds": 7,
+      "sfx_within_scene": true
+    },
+    {
+      "check": "linked delete removes page video and SFX",
+      "pass": true
+    },
+    {
+      "check": "saved version restoration and fresh API project read",
+      "pass": true,
+      "manual_override_preserved": true,
+      "scope": "native backend history and re-read, not desktop close/reopen"
+    },
+    {
+      "check": "native planner refuses move from locked track",
+      "pass": true
+    }
+  ],
+  "final_value_restored": true,
+  "ui_undo": "NOT_TESTED",
+  "ui_reopen": "NOT_TESTED"
+}

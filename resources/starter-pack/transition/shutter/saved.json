@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "savedAt": "2026-10-29T00:00:00Z",
+  "kind": "clip",
+  "clip": {
+    "src": "index.html",
+    "time": [
+      0,
+      4
+    ],
+    "attrs": {
+      "data-props": "[]"
+    }
+  },
+  "durationMs": 4000,
+  "w": 1920,
+  "h": 1080
+}

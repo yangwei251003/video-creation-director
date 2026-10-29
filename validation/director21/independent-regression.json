@@ -1,0 +1,33 @@
+{
+  "scope": "Same 16 counterexamples and controls; timeline fixtures updated to #t/at/speed syntax.",
+  "test_count": 16,
+  "passed": 16,
+  "checks": {
+    "V01_valid_control": true,
+    "V02_empty_mapping_repeated_timeline": true,
+    "V03_no_backups_or_slots": true,
+    "V04_backups_are_already_used": true,
+    "V05_timeline_repeats_unlisted_source": true,
+    "V06_recorded_duplicate_control": true,
+    "V07_same_shot_disjoint_time_control": true,
+    "V08_backup_hash_unchecked": true,
+    "R01_complete_control": true,
+    "R02_empty_mapping_promoted_to_100": true,
+    "R03_changed_asset_report_still_passes": true,
+    "A01_sync_control": true,
+    "A02_source_range_exceeds_actual_file": true,
+    "A03_entire_source_range_after_eof": true,
+    "A04_hot_stem_before_limiter": true,
+    "A05_pan_left_only_to_right": true
+  },
+  "snapshot_sha256": {
+    "audio_mix.py": "9c3e8dd5464da2b5eb87f0a48d6766c77fd5d6832e685ea23920eeaced6ad950",
+    "check_review.py": "ab2fa19baeef733e8550114e7acc9745a7353cbb20611a570a1a472a58a79bc3",
+    "check_visuals.py": "f412e6a39d06920eb07c274bd801e0833e318f31294f9056c4164e5676356b9d"
+  },
+  "project_modified": false,
+  "observed_limits": [
+    "No OpenFilm UI interaction",
+    "No full listening or aesthetic certification"
+  ]
+}

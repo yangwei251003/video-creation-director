@@ -1,0 +1,114 @@
+{
+  "input_name": "final-render.mp4",
+  "sha256": "266517e2c812367c0fb63e2b7cc6e3a2ebd26b0730862b9043526610d8793310",
+  "duration_seconds": 30.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "video_codec": "h264",
+  "audio": [
+    {
+      "codec": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    }
+  ],
+  "decode_passed": true,
+  "failures": [],
+  "samples": [
+    {
+      "time": 0.0,
+      "file": "frame-000.jpg",
+      "success": true
+    },
+    {
+      "time": 3.85,
+      "file": "frame-001.jpg",
+      "success": true
+    },
+    {
+      "time": 4.0,
+      "file": "frame-002.jpg",
+      "success": true
+    },
+    {
+      "time": 4.15,
+      "file": "frame-003.jpg",
+      "success": true
+    },
+    {
+      "time": 7.5,
+      "file": "frame-004.jpg",
+      "success": true
+    },
+    {
+      "time": 11.85,
+      "file": "frame-005.jpg",
+      "success": true
+    },
+    {
+      "time": 12.0,
+      "file": "frame-006.jpg",
+      "success": true
+    },
+    {
+      "time": 12.15,
+      "file": "frame-007.jpg",
+      "success": true
+    },
+    {
+      "time": 15.0,
+      "file": "frame-008.jpg",
+      "success": true
+    },
+    {
+      "time": 19.85,
+      "file": "frame-009.jpg",
+      "success": true
+    },
+    {
+      "time": 20.0,
+      "file": "frame-010.jpg",
+      "success": true
+    },
+    {
+      "time": 20.15,
+      "file": "frame-011.jpg",
+      "success": true
+    },
+    {
+      "time": 22.5,
+      "file": "frame-012.jpg",
+      "success": true
+    },
+    {
+      "time": 25.85,
+      "file": "frame-013.jpg",
+      "success": true
+    },
+    {
+      "time": 26.0,
+      "file": "frame-014.jpg",
+      "success": true
+    },
+    {
+      "time": 26.15,
+      "file": "frame-015.jpg",
+      "success": true
+    },
+    {
+      "time": 29.9667,
+      "file": "frame-016.jpg",
+      "success": true
+    }
+  ],
+  "status": "TECHNICAL_PASS",
+  "not_verified": [
+    "continuous motion",
+    "audio listening",
+    "semantic accuracy",
+    "font glyph coverage",
+    "licences",
+    "aesthetic/reference parity"
+  ]
+}

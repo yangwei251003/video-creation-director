@@ -1,0 +1,407 @@
+[
+  {
+    "id": "starter:ink-serif",
+    "title": "纸墨宋体",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/ink-serif",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/ink-serif",
+    "preview": "resource-previews/ink-serif.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:bold-outline",
+    "title": "硬朗描边",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/bold-outline",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/bold-outline",
+    "preview": "resource-previews/bold-outline.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:gold-foil",
+    "title": "柔金字面",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/gold-foil",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/gold-foil",
+    "preview": "resource-previews/gold-foil.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:neon-line",
+    "title": "霓虹轮廓",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/neon-line",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/neon-line",
+    "preview": "resource-previews/neon-line.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:magazine-cutout",
+    "title": "编辑拼贴",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/magazine-cutout",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/magazine-cutout",
+    "preview": "resource-previews/magazine-cutout.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:comic-burst",
+    "title": "漫画强调",
+    "categories": [
+      "text-style"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-style/comic-burst",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-style/comic-burst",
+    "preview": "resource-previews/comic-burst.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:rise",
+    "title": "错位升起",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/rise",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/rise",
+    "preview": "resource-previews/rise.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:stagger",
+    "title": "逐字节奏",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/stagger",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/stagger",
+    "preview": "resource-previews/stagger.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:blur",
+    "title": "聚焦显字",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/blur",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/blur",
+    "preview": "resource-previews/blur.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:tracking",
+    "title": "字距收束",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/tracking",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/tracking",
+    "preview": "resource-previews/tracking.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:clip",
+    "title": "遮罩揭示",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/clip",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/clip",
+    "preview": "resource-previews/clip.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:count",
+    "title": "数字增长",
+    "categories": [
+      "text-animation"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/text-animation/count",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "text-animation/count",
+    "preview": "resource-previews/count.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:orbit",
+    "title": "轨道关系线",
+    "categories": [
+      "effect"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/effect/orbit",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "effect/orbit",
+    "preview": "resource-previews/orbit.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:sweep",
+    "title": "流动光带",
+    "categories": [
+      "effect"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/effect/sweep",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "effect/sweep",
+    "preview": "resource-previews/sweep.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:glass",
+    "title": "玻璃信息卡",
+    "categories": [
+      "effect"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/effect/glass",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "effect/glass",
+    "preview": "resource-previews/glass.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:particles",
+    "title": "确定性粒子",
+    "categories": [
+      "effect"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/effect/particles",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "effect/particles",
+    "preview": "resource-previews/particles.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:wipe",
+    "title": "方向遮挡转场",
+    "categories": [
+      "transition"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/transition/wipe",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "transition/wipe",
+    "preview": "resource-previews/wipe.jpg",
+    "method": "OpenFilm Saved插入透明覆盖页，放在两片段交界；按事件重定时frame(t)，不要只裁短后丢失出场半程",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:iris",
+    "title": "圆形开合转场",
+    "categories": [
+      "transition"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/transition/iris",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "transition/iris",
+    "preview": "resource-previews/iris.jpg",
+    "method": "OpenFilm Saved插入透明覆盖页，放在两片段交界；按事件重定时frame(t)，不要只裁短后丢失出场半程",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:shutter",
+    "title": "百叶遮挡转场",
+    "categories": [
+      "transition"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/transition/shutter",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "transition/shutter",
+    "preview": "resource-previews/shutter.jpg",
+    "method": "OpenFilm Saved插入透明覆盖页，放在两片段交界；按事件重定时frame(t)，不要只裁短后丢失出场半程",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:dip",
+    "title": "白场闪切转场",
+    "categories": [
+      "transition"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/transition/dip",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "transition/dip",
+    "preview": "resource-previews/dip.jpg",
+    "method": "OpenFilm Saved插入透明覆盖页，放在两片段交界；按事件重定时frame(t)，不要只裁短后丢失出场半程",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:warm",
+    "title": "暖调滤镜示例",
+    "categories": [
+      "filter"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/filter/warm",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "filter/warm",
+    "preview": "resource-previews/warm.jpg",
+    "method": "复制滤镜CSS到具体媒体元素；页面是可编辑示例，不改变其他轨道",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:cool",
+    "title": "冷调滤镜示例",
+    "categories": [
+      "filter"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/filter/cool",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "filter/cool",
+    "preview": "resource-previews/cool.jpg",
+    "method": "复制滤镜CSS到具体媒体元素；页面是可编辑示例，不改变其他轨道",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:mono",
+    "title": "黑白滤镜示例",
+    "categories": [
+      "filter"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/filter/mono",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "filter/mono",
+    "preview": "resource-previews/mono.jpg",
+    "method": "复制滤镜CSS到具体媒体元素；页面是可编辑示例，不改变其他轨道",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:film",
+    "title": "复古滤镜示例",
+    "categories": [
+      "filter"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/filter/film",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "filter/film",
+    "preview": "resource-previews/film.jpg",
+    "method": "复制滤镜CSS到具体媒体元素；页面是可编辑示例，不改变其他轨道",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:chapter",
+    "title": "章节开场",
+    "categories": [
+      "template"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/template/chapter",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "template/chapter",
+    "preview": "resource-previews/chapter.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:compare",
+    "title": "双项对比",
+    "categories": [
+      "template"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/template/compare",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "template/compare",
+    "preview": "resource-previews/compare.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  },
+  {
+    "id": "starter:evidence",
+    "title": "证据卡片",
+    "categories": [
+      "template"
+    ],
+    "kind": "openfilm-page",
+    "source_url": "https://github.com/yangwei251003/video-creation-director/tree/main/resources/starter-pack/template/evidence",
+    "license": "MIT",
+    "availability": "native-saved",
+    "bundle_relative": "template/evidence",
+    "preview": "resource-previews/evidence.jpg",
+    "method": "OpenFilm Saved原生插入，文字保留DOM，可编辑；frame(t)确定性驱动",
+    "verified": "headless frame seeking tested; native import/render recorded separately"
+  }
+]

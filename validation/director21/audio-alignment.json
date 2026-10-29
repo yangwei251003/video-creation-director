@@ -1,0 +1,47 @@
+{
+  "method": "decoded final AAC cross-correlated with original SFX; first-25%-peak transient offset from cue sheet",
+  "results": [
+    {
+      "id": "sfx-opening",
+      "expected_action_seconds": 0.7,
+      "detected_transient_seconds": 0.700125,
+      "error_frames": 0.0037500000000012523,
+      "normalized_correlation": 0.739889304276847,
+      "within_one_frame": true
+    },
+    {
+      "id": "sfx-observe",
+      "expected_action_seconds": 4.7,
+      "detected_transient_seconds": 4.700125,
+      "error_frames": 0.0037499999999912603,
+      "normalized_correlation": 0.5407404320372484,
+      "within_one_frame": true
+    },
+    {
+      "id": "sfx-connect",
+      "expected_action_seconds": 12.7,
+      "detected_transient_seconds": 12.7000625,
+      "error_frames": 0.0018750000000089528,
+      "normalized_correlation": 0.9091317719133126,
+      "within_one_frame": true
+    },
+    {
+      "id": "sfx-perspective",
+      "expected_action_seconds": 20.7,
+      "detected_transient_seconds": 20.700125,
+      "error_frames": 0.0037500000000179057,
+      "normalized_correlation": 0.45266406994849145,
+      "within_one_frame": true
+    },
+    {
+      "id": "sfx-closing",
+      "expected_action_seconds": 26.7,
+      "detected_transient_seconds": 26.700062499999998,
+      "error_frames": 0.0018749999999556621,
+      "normalized_correlation": 0.8961506980347842,
+      "within_one_frame": true
+    }
+  ],
+  "status": "MEASURED_PASS",
+  "listening": "NOT_PERFORMED; numerical alignment does not establish perceived timbre or mix quality"
+}

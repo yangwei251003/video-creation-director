@@ -1,0 +1,170 @@
+{
+  "method": "Native Studio Saved take + revision-checked insert; no foreground input",
+  "imported": 27,
+  "timeline_clips": 27,
+  "problems": [],
+  "items": [
+    {
+      "id": "starter:ink-serif",
+      "path": "saved/Director-2.1/Starter/text-style/ink-serif/index.html",
+      "at": 0,
+      "duration": 4
+    },
+    {
+      "id": "starter:bold-outline",
+      "path": "saved/Director-2.1/Starter/text-style/bold-outline/index.html",
+      "at": 4,
+      "duration": 4
+    },
+    {
+      "id": "starter:gold-foil",
+      "path": "saved/Director-2.1/Starter/text-style/gold-foil/index.html",
+      "at": 8,
+      "duration": 4
+    },
+    {
+      "id": "starter:neon-line",
+      "path": "saved/Director-2.1/Starter/text-style/neon-line/index.html",
+      "at": 12,
+      "duration": 4
+    },
+    {
+      "id": "starter:magazine-cutout",
+      "path": "saved/Director-2.1/Starter/text-style/magazine-cutout/index.html",
+      "at": 16,
+      "duration": 4
+    },
+    {
+      "id": "starter:comic-burst",
+      "path": "saved/Director-2.1/Starter/text-style/comic-burst/index.html",
+      "at": 20,
+      "duration": 4
+    },
+    {
+      "id": "starter:rise",
+      "path": "saved/Director-2.1/Starter/text-animation/rise/index.html",
+      "at": 24,
+      "duration": 4
+    },
+    {
+      "id": "starter:stagger",
+      "path": "saved/Director-2.1/Starter/text-animation/stagger/index.html",
+      "at": 28,
+      "duration": 4
+    },
+    {
+      "id": "starter:blur",
+      "path": "saved/Director-2.1/Starter/text-animation/blur/index.html",
+      "at": 32,
+      "duration": 4
+    },
+    {
+      "id": "starter:tracking",
+      "path": "saved/Director-2.1/Starter/text-animation/tracking/index.html",
+      "at": 36,
+      "duration": 4
+    },
+    {
+      "id": "starter:clip",
+      "path": "saved/Director-2.1/Starter/text-animation/clip/index.html",
+      "at": 40,
+      "duration": 4
+    },
+    {
+      "id": "starter:count",
+      "path": "saved/Director-2.1/Starter/text-animation/count/index.html",
+      "at": 44,
+      "duration": 4
+    },
+    {
+      "id": "starter:orbit",
+      "path": "saved/Director-2.1/Starter/effect/orbit/index.html",
+      "at": 48,
+      "duration": 4
+    },
+    {
+      "id": "starter:sweep",
+      "path": "saved/Director-2.1/Starter/effect/sweep/index.html",
+      "at": 52,
+      "duration": 4
+    },
+    {
+      "id": "starter:glass",
+      "path": "saved/Director-2.1/Starter/effect/glass/index.html",
+      "at": 56,
+      "duration": 4
+    },
+    {
+      "id": "starter:particles",
+      "path": "saved/Director-2.1/Starter/effect/particles/index.html",
+      "at": 60,
+      "duration": 4
+    },
+    {
+      "id": "starter:wipe",
+      "path": "saved/Director-2.1/Starter/transition/wipe/index.html",
+      "at": 64,
+      "duration": 4
+    },
+    {
+      "id": "starter:iris",
+      "path": "saved/Director-2.1/Starter/transition/iris/index.html",
+      "at": 68,
+      "duration": 4
+    },
+    {
+      "id": "starter:shutter",
+      "path": "saved/Director-2.1/Starter/transition/shutter/index.html",
+      "at": 72,
+      "duration": 4
+    },
+    {
+      "id": "starter:dip",
+      "path": "saved/Director-2.1/Starter/transition/dip/index.html",
+      "at": 76,
+      "duration": 4
+    },
+    {
+      "id": "starter:warm",
+      "path": "saved/Director-2.1/Starter/filter/warm/index.html",
+      "at": 80,
+      "duration": 4
+    },
+    {
+      "id": "starter:cool",
+      "path": "saved/Director-2.1/Starter/filter/cool/index.html",
+      "at": 84,
+      "duration": 4
+    },
+    {
+      "id": "starter:mono",
+      "path": "saved/Director-2.1/Starter/filter/mono/index.html",
+      "at": 88,
+      "duration": 4
+    },
+    {
+      "id": "starter:film",
+      "path": "saved/Director-2.1/Starter/filter/film/index.html",
+      "at": 92,
+      "duration": 4
+    },
+    {
+      "id": "starter:chapter",
+      "path": "saved/Director-2.1/Starter/template/chapter/index.html",
+      "at": 96,
+      "duration": 4
+    },
+    {
+      "id": "starter:compare",
+      "path": "saved/Director-2.1/Starter/template/compare/index.html",
+      "at": 100,
+      "duration": 4
+    },
+    {
+      "id": "starter:evidence",
+      "path": "saved/Director-2.1/Starter/template/evidence/index.html",
+      "at": 104,
+      "duration": 4
+    }
+  ]
+}

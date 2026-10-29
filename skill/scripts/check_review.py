@@ -2,10 +2,11 @@
 import argparse
 import json
 import math
+import hashlib
 from pathlib import Path
 
 WEIGHTS = {'narrative': 20, 'pacing': 15, 'typography': 15, 'motion': 15, 'audio': 15, 'technical': 10, 'style': 10}
-REQUIRED_GATES = ('brief', 'facts', 'rights', 'legibility', 'media_integrity', 'deliverables')
+REQUIRED_GATES = ('brief', 'facts', 'rights', 'legibility', 'media_integrity', 'deliverables', 'visual_uniqueness')
 
 
 def nonempty(value):
@@ -63,6 +64,17 @@ def evaluate(review, base):
         elif not nonempty(record.get('reason')):
             errors.append('gate reason missing: ' + gate)
     audio_required = review.get('audio_required')
+    visual = review.get('gates', {}).get('visual_uniqueness', {})
+    if isinstance(visual, dict) and visual.get('status') == 'pass':
+        try:
+            report = json.loads((base/visual['report']).read_text(encoding='utf-8-sig'))
+            if report.get('status') != 'PASS_RECORD_ONLY' or len(report.get('inputs', [])) < 2 or report.get('timeline_audited') is not True:
+                incomplete.append('visual uniqueness report not passed/bound to inputs')
+            for item in report.get('inputs', []):
+                if hashlib.sha256((base/item['file']).read_bytes()).hexdigest() != item['sha256']:
+                    incomplete.append('visual uniqueness report stale')
+        except (OSError, KeyError, TypeError, ValueError):
+            incomplete.append('valid visual uniqueness report required')
     if not isinstance(audio_required, bool):
         errors.append('audio_required must be explicit boolean')
     if audio_required is False and review.get('audio_intent') not in ('user_requested_silence', 'silent_design_authorized'):

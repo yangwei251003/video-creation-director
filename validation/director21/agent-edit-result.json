@@ -1,0 +1,10 @@
+{
+  "backend": "installed OpenFilm AgentSession / bundled codex-acp",
+  "model": "gpt-5.6-sol",
+  "done": "end_turn",
+  "film_unchanged": true,
+  "closing_has_requested_color": true,
+  "director_version_read": "2.1.0",
+  "manual_title_preserved": true,
+  "foreground_chat_retry": "NOT_TESTED"
+}

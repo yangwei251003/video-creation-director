@@ -1,0 +1,48 @@
+{
+  "input_name": "native-page-render.mp4",
+  "sha256": "ceafe0021419cb237e6157b170591297f3af3f2da63ea7c56f0589a95f11b419",
+  "duration_seconds": 4.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "video_codec": "h264",
+  "audio": [],
+  "decode_passed": true,
+  "failures": [],
+  "samples": [
+    {
+      "time": 0.0,
+      "file": "frame-000.jpg",
+      "success": true
+    },
+    {
+      "time": 1.0,
+      "file": "frame-001.jpg",
+      "success": true
+    },
+    {
+      "time": 2.0,
+      "file": "frame-002.jpg",
+      "success": true
+    },
+    {
+      "time": 3.0,
+      "file": "frame-003.jpg",
+      "success": true
+    },
+    {
+      "time": 3.9667,
+      "file": "frame-004.jpg",
+      "success": true
+    }
+  ],
+  "status": "TECHNICAL_PASS",
+  "not_verified": [
+    "continuous motion",
+    "audio listening",
+    "semantic accuracy",
+    "font glyph coverage",
+    "licences",
+    "aesthetic/reference parity"
+  ]
+}

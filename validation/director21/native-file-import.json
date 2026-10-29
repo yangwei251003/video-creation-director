@@ -1,0 +1,20 @@
+{
+  "method": "native Saved take, actual file hash compared",
+  "results": [
+    {
+      "resource": "Audio/Kenney/click_001.ogg",
+      "copied_path": "assets/click_001.ogg",
+      "sha256_matches": true
+    },
+    {
+      "resource": "Stickers/Lucide/camera.svg",
+      "copied_path": "assets/camera.svg",
+      "sha256_matches": true
+    },
+    {
+      "resource": "Fonts/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "copied_path": "assets/ZCOOLKuaiLe-Regular.ttf",
+      "sha256_matches": true
+    }
+  ]
+}

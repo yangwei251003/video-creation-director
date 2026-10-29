@@ -1,0 +1,21 @@
+{
+  "status": "INCOMPLETE",
+  "total": null,
+  "raw_total": null,
+  "errors": [],
+  "unverified": [
+    "gate:facts",
+    "gate:rights",
+    "gate:legibility",
+    "narrative",
+    "pacing",
+    "typography",
+    "motion",
+    "audio",
+    "style"
+  ],
+  "failures": [
+    "unresolved issue:full-review"
+  ],
+  "notice": "Record consistency only; does not prove aesthetic quality, watching or listening."
+}

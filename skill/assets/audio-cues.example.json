@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "duration_seconds": 30,
+  "fps": 30,
+  "cues": [
+    {
+      "id": "click-01",
+      "shot_id": "shot-01",
+      "action": "标题落定",
+      "track": "sfx",
+      "file": "assets/source/click.wav",
+      "source_range": [
+        0,
+        0.5
+      ],
+      "transient_offset": 0.02,
+      "anchor_seconds": 1.0,
+      "gain": 0.4,
+      "pan": 0,
+      "fade_in": 0,
+      "fade_out": 0.1,
+      "gain_envelopes": []
+    }
+  ]
+}

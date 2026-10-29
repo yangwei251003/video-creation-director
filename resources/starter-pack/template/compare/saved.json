@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "savedAt": "2026-10-29T00:00:00Z",
+  "kind": "clip",
+  "clip": {
+    "src": "index.html",
+    "time": [
+      0,
+      4
+    ],
+    "attrs": {
+      "data-props": "[{\"name\": \"标题\", \"type\": \"text\", \"at\": \"#title\"}, {\"name\": \"左标题\", \"type\": \"text\", \"at\": \"#card-0 b\"}, {\"name\": \"左内容\", \"type\": \"text\", \"at\": \"#card-0 p\"}, {\"name\": \"右标题\", \"type\": \"text\", \"at\": \"#card-1 b\"}, {\"name\": \"右内容\", \"type\": \"text\", \"at\": \"#card-1 p\"}]"
+    }
+  },
+  "durationMs": 4000,
+  "w": 1920,
+  "h": 1080
+}

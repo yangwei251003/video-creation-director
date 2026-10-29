@@ -47,6 +47,11 @@
     "deliverables": {
       "status": "not_verified",
       "reason": "待实际检查"
+    },
+    "visual_uniqueness": {
+      "status": "not_verified",
+      "reason": "待检查最终时间线及源镜头",
+      "report": null
     }
   },
   "dimensions": {

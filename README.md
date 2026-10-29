@@ -2,11 +2,38 @@
 
 一个视频入口，统筹需求、真实素材、参考镜头、视觉设计、制作和验收。支持中文视频任务，按需调用 MotionGit、Motion、Remotion 与剪辑工具。用户可以只给一句话，内部仍完成必要制作工作。
 
-**[观看原创横竖屏示例](https://yangwei251003.github.io/video-creation-director/) · [技能正文](skill/SKILL.md) · [升级说明](UPGRADE.md) · [研究范围](research/source-evidence.md)**
+**[浏览素材库](https://yangwei251003.github.io/video-creation-director/resources.html) · [观看原创横竖屏示例](https://yangwei251003.github.io/video-creation-director/) · [技能正文](skill/SKILL.md) · [升级说明](UPGRADE.md)**
 
 ![原创字体与视觉设计样例](docs/assets/design-preview.jpg)
 
-## 2.0 带来了什么
+## 2.1 新增
+
+- OpenFilm本地桌面工作台：统一对话修改、手动编辑、版本及内部渲染能力；保留用户改动。
+- 人与Agent共用的895条素材索引：覆盖视频/图片、音频、贴纸、字体、花字、文字动画、特效、滤镜、转场与模板，保留阿杜/Vincent的精确来源、版本、获取方法和许可。
+- 27个原创可编辑OpenFilm页面；本机另准备100个Kenney音效、30个Lucide图标、6款字体及2个NASA源视频。第三方原素材不随公共仓库捆绑。
+- 后台操作优先：项目读写、原生版本、资源导入、Codex适配器与无头验证，避免占用用户屏幕鼠标。
+- 按实际镜头禁重，裁切/镜像/变速不能绕过；每个素材镜头至少3候选、1主选及可用备选。
+- 判重对照真实时间线、源片段、媒体散列与多帧相似候选；缺证据不放行。
+- 声音事件、实测起音参考、浮点分轨、混音、公开CC0获取；没有听审不宣称音质达标。
+- [三条新教程研究](research/tutorials/sound-openfilm.md) · [OpenFilm验证工程构建说明](examples/openfilm-lab/README.md)。
+
+![实际素材目录](docs/assets/resource-desk.jpg)
+
+895是分层记录数，含来源库、镜头卡、父子变体、单个素材和方法；不是895套独立视频模板，也不表示全部远程内容已运行。本机27页原生导入、27页确定性检查及代表页真实渲染已验证。30秒有声工程完成渲染、解码、背景Agent局部修改和原生编辑闭环；完整连续看审、听审和优秀总分仍未验证。[2.1验证范围](validation/director21/README.md)
+
+## 在工作台使用素材
+
+先在[素材目录](https://yangwei251003.github.io/video-creation-director/resources.html)查找方向，或让Agent执行：
+
+```sh
+python skill/scripts/resource_catalog.py --category text-animation --limit 5
+python skill/scripts/resource_catalog.py 阿杜 --limit 3
+python skill/scripts/resource_catalog.py --id icon:camera
+```
+
+原生页面源包在 `resources/starter-pack/`。复制到独立资源根的 `Starter/` 后，可用 `resources/install_native.py --resources <root> --saved <OpenFilm-Saved-root> --apply` 比较并备份安装。已配置机器从OpenFilm「素材 → Saved → Director 2.1」使用；字体要在具体页面中用本地 `@font-face` 引用，放入Saved不等于系统安装。远程记录给出源码/下载/API入口；滤镜示例和GLSL转场需按实际媒体适配。[接入、许可与后台操作](skill/references/resource-library.md)
+
+## 2.0 基础能力
 
 - 字体按标题、正文、数字分工：中文替换方向、字重轴、字形覆盖、8种文字动效配方。
 - 6组美术方向、7类转场方法、24种信息组件选型；从内容关系决定形式。

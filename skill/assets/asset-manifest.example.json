@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "assets": [
     {
       "id": "asset-001",
@@ -30,5 +30,15 @@
       "render_verification": null,
       "notes": "示例不是已获取或已授权资产；真实项目删去占位项并逐文件填写。"
     }
-  ]
+  ],
+  "segments": [],
+  "uses": [],
+  "slots": [],
+  "similarity_resolutions": {},
+  "coverage": {
+    "final_timeline_checked": false,
+    "nested_media_checked": false,
+    "visual_comparison_complete": false,
+    "evidence": null
+  }
 }

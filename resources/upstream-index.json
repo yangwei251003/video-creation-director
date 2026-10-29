@@ -1,0 +1,2590 @@
+{
+  "checked_date": "2026-10-30",
+  "entries": [
+    {
+      "id": "font:zcoolkuaile",
+      "title": "站酷快乐体 · 活泼花字",
+      "categories": [
+        "font"
+      ],
+      "source_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/zcoolkuaile/OFL.txt",
+      "kind": "font",
+      "availability": "local-file",
+      "local_key": "Fonts/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "method": "@font-face本地加载；逐片核验汉字覆盖、字重和许可",
+      "verified": "downloaded/hash; glyph coverage not checked for every future text"
+    },
+    {
+      "id": "font:anton",
+      "title": "Anton · 凝练英文标题",
+      "categories": [
+        "font"
+      ],
+      "source_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/anton/Anton-Regular.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/anton/Anton-Regular.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/anton/OFL.txt",
+      "kind": "font",
+      "availability": "local-file",
+      "local_key": "Fonts/anton/Anton-Regular.ttf",
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+      "method": "@font-face本地加载；逐片核验汉字覆盖、字重和许可",
+      "verified": "downloaded/hash; glyph coverage not checked for every future text"
+    },
+    {
+      "id": "font:spacegrotesk",
+      "title": "Space Grotesk · 科技数字",
+      "categories": [
+        "font"
+      ],
+      "source_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/spacegrotesk/SpaceGrotesk[wght].ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/spacegrotesk/OFL.txt",
+      "kind": "font",
+      "availability": "local-file",
+      "local_key": "Fonts/spacegrotesk/SpaceGrotesk[wght].ttf",
+      "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72",
+      "method": "@font-face本地加载；逐片核验汉字覆盖、字重和许可",
+      "verified": "downloaded/hash; glyph coverage not checked for every future text"
+    },
+    {
+      "id": "font:barlowcondensed",
+      "title": "Barlow Condensed · 窄体信息",
+      "categories": [
+        "font"
+      ],
+      "source_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/barlowcondensed/BarlowCondensed-Black.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/barlowcondensed/BarlowCondensed-Black.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/6157dfaa640ca5738b4d1a7070fe389c3036d7fc/ofl/barlowcondensed/OFL.txt",
+      "kind": "font",
+      "availability": "local-file",
+      "local_key": "Fonts/barlowcondensed/BarlowCondensed-Black.ttf",
+      "sha256": "e74b750df582c608f35db467b711b2b60d2217618e85e60b72b42dfd00446cab",
+      "method": "@font-face本地加载；逐片核验汉字覆盖、字重和许可",
+      "verified": "downloaded/hash; glyph coverage not checked for every future text"
+    },
+    {
+      "id": "icon:camera",
+      "title": "Lucide / camera",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/camera.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/camera.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/camera.svg",
+      "sha256": "ebbb3178dd80dfd942770a2237fe7bfc3515c55c7daa9d3666933a656d2790e3",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:film",
+      "title": "Lucide / film",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/film.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/film.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/film.svg",
+      "sha256": "85cfa80821b34f512bd401a1249957c9f2f612497602ecc31dff39517823ee52",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:image",
+      "title": "Lucide / image",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/image.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/image.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/image.svg",
+      "sha256": "619c9db58c879dce6250376ba67d9c9102ca6dbb3b1efb9294c9f180e22273a5",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:mic",
+      "title": "Lucide / mic",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/mic.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/mic.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/mic.svg",
+      "sha256": "9b940cd735d1ffa270ba670c4e677d9a09400f3fa81d6b3f405b12a3b67a59a8",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:headphones",
+      "title": "Lucide / headphones",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/headphones.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/headphones.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/headphones.svg",
+      "sha256": "7719585dafa921805aefc21fc3262bbcc621507610a653b84e1632236650b35a",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:audio-lines",
+      "title": "Lucide / audio-lines",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/audio-lines.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/audio-lines.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/audio-lines.svg",
+      "sha256": "3942b8a5d6bccc927a55f857f0d44b90e2663470cd2d569000c9b60c37578dfa",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:play",
+      "title": "Lucide / play",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/play.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/play.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/play.svg",
+      "sha256": "d7c34786135922a92b6896f6c2384ceeb0346afbf6041dc79982011411409833",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:pause",
+      "title": "Lucide / pause",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/pause.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/pause.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/pause.svg",
+      "sha256": "f122ec4ea7f5693a0b1baafa9c708b53980dc87b4aacb297c6e6f71c1a4c115c",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:check",
+      "title": "Lucide / check",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/check.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/check.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/check.svg",
+      "sha256": "7f33acc9a77a61659531044525fc008edebe215bf4dcf1c789c8674ad3277db0",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:heart",
+      "title": "Lucide / heart",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/heart.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/heart.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/heart.svg",
+      "sha256": "70af5f30be9fcb500b852556b38dcdf8c04a4ba81fd262534fb0336bd39b3b52",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:star",
+      "title": "Lucide / star",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/star.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/star.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/star.svg",
+      "sha256": "c59da86b889569387db28e69ad00a89f96af22863ad9eea9aa12c4876a14338c",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:sparkles",
+      "title": "Lucide / sparkles",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/sparkles.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/sparkles.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/sparkles.svg",
+      "sha256": "f5499f33f09d7158151e9bd2ec0faf79ff8fb57292f84fdd7286d96d0f0424d8",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:arrow-right",
+      "title": "Lucide / arrow-right",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/arrow-right.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/arrow-right.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/arrow-right.svg",
+      "sha256": "288397fdb73bb4f783cf9eabb726ff47357df1d4e3f1201dd748090579f108b9",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:globe",
+      "title": "Lucide / globe",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/globe.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/globe.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/globe.svg",
+      "sha256": "82c6b8fa0b8e8d775ec9becd86f74a4e50bff7bee4c81f7362de45348504f14d",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:earth",
+      "title": "Lucide / earth",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/earth.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/earth.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/earth.svg",
+      "sha256": "72ca6996d7032013268f46e9bcf360652136eb0f75465e3c98687fef784bbd41",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:leaf",
+      "title": "Lucide / leaf",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/leaf.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/leaf.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/leaf.svg",
+      "sha256": "ac2b65d8d35b5038c9388cd1f161e74570fce6ef6a4c3d99a6b0c2bd68e0cb28",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:rocket",
+      "title": "Lucide / rocket",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/rocket.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/rocket.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/rocket.svg",
+      "sha256": "2b7887d9a5623f2e5e4a5d32716f93829d61b458e03b6eae33a6df648b9eb855",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:lightbulb",
+      "title": "Lucide / lightbulb",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/lightbulb.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/lightbulb.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/lightbulb.svg",
+      "sha256": "e33bbec15b1e64cca958e086850f951c0dc2201cd5778bb3695fda3cb6ea457d",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:chart-line",
+      "title": "Lucide / chart-line",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/chart-line.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/chart-line.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/chart-line.svg",
+      "sha256": "8736da84214736c4fd579b52b8a41f454cddf0dba9578618eee5ae8e22f40645",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:clock",
+      "title": "Lucide / clock",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/clock.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/clock.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/clock.svg",
+      "sha256": "e9d3e3acf4d1c280fcf8092293439dc0a4756a908ceb859de144b12451cd1cb9",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:map-pin",
+      "title": "Lucide / map-pin",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/map-pin.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/map-pin.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/map-pin.svg",
+      "sha256": "16f1042a62f1bda20ebab8bfc1cb79c0be285c980dea6c2c733a17902631405b",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:message-circle",
+      "title": "Lucide / message-circle",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/message-circle.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/message-circle.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/message-circle.svg",
+      "sha256": "146f39740fe50844394d56ae1f8821937655bcfff3842bf6fe8ffc0bcd324076",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:mouse-pointer",
+      "title": "Lucide / mouse-pointer",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/mouse-pointer.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/mouse-pointer.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/mouse-pointer.svg",
+      "sha256": "9541b5c7cbf62f65801a1e6206db1290f077556ea9a9abb87a1ae497980eaf8e",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:search",
+      "title": "Lucide / search",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/search.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/search.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/search.svg",
+      "sha256": "283d371c2e433817bb9c0c8310caa6c77fa4177c0f4f1168d9c83b97af7389dc",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:settings",
+      "title": "Lucide / settings",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/settings.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/settings.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/settings.svg",
+      "sha256": "0ae27fd0f81999229e3127ac96c5b32edfea448e291d509e76212b917551d66b",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:layers",
+      "title": "Lucide / layers",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/layers.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/layers.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/layers.svg",
+      "sha256": "ce16d0a955e3581cda17f6b2fd5c5bc2034b405f9cecc31c8ebb8495b4afc1bb",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:type",
+      "title": "Lucide / type",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/type.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/type.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/type.svg",
+      "sha256": "82c514732330f9c36c0f1f7fd1034634fa6ad21ba2016ffa76cf5d9608c3d6b1",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:palette",
+      "title": "Lucide / palette",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/palette.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/palette.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/palette.svg",
+      "sha256": "8e7d3fde990cffd10469ba351f27c50202b057a9bb9af5626322e53fd3abc78c",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:scissors",
+      "title": "Lucide / scissors",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/scissors.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/scissors.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/scissors.svg",
+      "sha256": "4c831fc2c903825f68565c28ffab945c34b2c60b6c564e2ae54250e1099fa550",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "icon:volume-2",
+      "title": "Lucide / volume-2",
+      "categories": [
+        "sticker",
+        "component"
+      ],
+      "kind": "svg",
+      "source_url": "https://github.com/lucide-icons/lucide/blob/5aae256c6479aef74c609b536d10675c97c714e3/icons/volume-2.svg",
+      "fetch_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/icons/volume-2.svg",
+      "license": "ISC / retained Feather MIT notice",
+      "license_url": "https://raw.githubusercontent.com/lucide-icons/lucide/5aae256c6479aef74c609b536d10675c97c714e3/LICENSE",
+      "availability": "local-file",
+      "local_key": "Stickers/Lucide/volume-2.svg",
+      "sha256": "fb404f9c128a0579de67b399177631e5edb3502fdc247ceb30e8b15754b46071",
+      "method": "本地SVG；统一线宽/颜色/安全区后插入；可使用OpenFilm素材面板",
+      "verified": "downloaded/hash; source SVG parsed at use"
+    },
+    {
+      "id": "gl:BlockDissolve",
+      "title": "BlockDissolve",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BlockDissolve.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BlockDissolve.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BlockDissolve.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:BookFlip",
+      "title": "BookFlip",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BookFlip.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BookFlip.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BookFlip.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Bounce",
+      "title": "Bounce",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Bounce.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Bounce.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Bounce.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:BowTie",
+      "title": "BowTie",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTie.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTie.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTie.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:BowTieHorizontal",
+      "title": "BowTieHorizontal",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieHorizontal.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieHorizontal.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieHorizontal.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:BowTieVertical",
+      "title": "BowTieVertical",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieVertical.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieVertical.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BowTieVertical.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Box",
+      "title": "Box",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Box.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Box.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Box.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:BurnThrough",
+      "title": "BurnThrough",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BurnThrough.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BurnThrough.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/BurnThrough.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ButterflyWaveScrawler",
+      "title": "ButterflyWaveScrawler",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ButterflyWaveScrawler.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ButterflyWaveScrawler.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ButterflyWaveScrawler.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Chessboard",
+      "title": "Chessboard",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Chessboard.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Chessboard.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Chessboard.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:CircleIris",
+      "title": "CircleIris",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleIris.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleIris.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleIris.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:CircleOpen",
+      "title": "CircleOpen",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleOpen.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleOpen.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleOpen.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ClockWipe",
+      "title": "ClockWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ClockWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ClockWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ClockWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ColorCoords",
+      "title": "ColorCoords",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorCoords.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorCoords.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorCoords.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ColorDistance",
+      "title": "ColorDistance",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorDistance.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorDistance.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorDistance.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ColorPhase",
+      "title": "ColorPhase",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorPhase.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorPhase.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorPhase.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ColorWrap",
+      "title": "ColorWrap",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorWrap.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorWrap.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ColorWrap.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:CrazyParametricFun",
+      "title": "CrazyParametricFun",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrazyParametricFun.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrazyParametricFun.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrazyParametricFun.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:CrossWarp",
+      "title": "CrossWarp",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossWarp.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossWarp.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossWarp.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:CrossZoom",
+      "title": "CrossZoom",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossZoom.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossZoom.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossZoom.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Crosshatch",
+      "title": "Crosshatch",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Crosshatch.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Crosshatch.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Crosshatch.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Cube",
+      "title": "Cube",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Cube.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Cube.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Cube.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DefocusBlur",
+      "title": "DefocusBlur",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DefocusBlur.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DefocusBlur.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DefocusBlur.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Directional",
+      "title": "Directional",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Directional.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Directional.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Directional.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DirectionalEased",
+      "title": "DirectionalEased",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalEased.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalEased.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalEased.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DirectionalScaled",
+      "title": "DirectionalScaled",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalScaled.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalScaled.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalScaled.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DirectionalWarp",
+      "title": "DirectionalWarp",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWarp.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWarp.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWarp.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DirectionalWipe",
+      "title": "DirectionalWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DisplacementMap",
+      "title": "DisplacementMap",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DisplacementMap.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DisplacementMap.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DisplacementMap.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DoomMelt",
+      "title": "DoomMelt",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DoomMelt.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DoomMelt.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DoomMelt.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Doorway",
+      "title": "Doorway",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Doorway.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Doorway.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Doorway.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Dreamy",
+      "title": "Dreamy",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Dreamy.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Dreamy.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Dreamy.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:DreamyZoom",
+      "title": "DreamyZoom",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DreamyZoom.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DreamyZoom.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DreamyZoom.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:EdgeGlow",
+      "title": "EdgeGlow",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/EdgeGlow.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/EdgeGlow.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/EdgeGlow.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Fade",
+      "title": "Fade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FadeColor",
+      "title": "FadeColor",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeColor.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeColor.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeColor.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FadeGrayscale",
+      "title": "FadeGrayscale",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeGrayscale.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeGrayscale.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FadeGrayscale.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FilmBurn",
+      "title": "FilmBurn",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FilmBurn.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FilmBurn.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FilmBurn.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FlashFade",
+      "title": "FlashFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlashFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlashFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlashFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FlowerWipe",
+      "title": "FlowerWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlowerWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlowerWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlowerWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:FlyEye",
+      "title": "FlyEye",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlyEye.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlyEye.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/FlyEye.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Fold",
+      "title": "Fold",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fold.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fold.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Fold.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GlitchBands",
+      "title": "GlitchBands",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchBands.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchBands.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchBands.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GlitchDisplace",
+      "title": "GlitchDisplace",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchDisplace.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchDisplace.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchDisplace.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GlitchFlicker",
+      "title": "GlitchFlicker",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchFlicker.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchFlicker.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchFlicker.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GlitchMemories",
+      "title": "GlitchMemories",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchMemories.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchMemories.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlitchMemories.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GlowDissolve",
+      "title": "GlowDissolve",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlowDissolve.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlowDissolve.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GlowDissolve.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:GridFlip",
+      "title": "GridFlip",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GridFlip.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GridFlip.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/GridFlip.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:HeartWipe",
+      "title": "HeartWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HeartWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HeartWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HeartWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Hexagonalize",
+      "title": "Hexagonalize",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Hexagonalize.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Hexagonalize.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Hexagonalize.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:HorizontalClose",
+      "title": "HorizontalClose",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalClose.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalClose.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalClose.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:HorizontalOpen",
+      "title": "HorizontalOpen",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalOpen.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalOpen.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HorizontalOpen.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:HsvFade",
+      "title": "HsvFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HsvFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HsvFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/HsvFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:InvertedPageCurl",
+      "title": "InvertedPageCurl",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/InvertedPageCurl.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/InvertedPageCurl.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/InvertedPageCurl.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Kaleidoscope",
+      "title": "Kaleidoscope",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Kaleidoscope.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Kaleidoscope.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Kaleidoscope.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LeafWipe",
+      "title": "LeafWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeafWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeafWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeafWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LeftRight",
+      "title": "LeftRight",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeftRight.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeftRight.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LeftRight.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LinearBlur",
+      "title": "LinearBlur",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LinearBlur.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LinearBlur.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LinearBlur.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LissajousTiles",
+      "title": "LissajousTiles",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LissajousTiles.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LissajousTiles.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LissajousTiles.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LumaWipe",
+      "title": "LumaWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LumaWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LumaWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LumaWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:LuminanceMelt",
+      "title": "LuminanceMelt",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LuminanceMelt.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LuminanceMelt.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/LuminanceMelt.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Morph",
+      "title": "Morph",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Morph.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Morph.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Morph.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Mosaic",
+      "title": "Mosaic",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Mosaic.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Mosaic.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Mosaic.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:MosaicBlend",
+      "title": "MosaicBlend",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicBlend.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicBlend.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicBlend.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:MosaicFade",
+      "title": "MosaicFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MosaicFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:MultiplyBlend",
+      "title": "MultiplyBlend",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MultiplyBlend.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MultiplyBlend.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/MultiplyBlend.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:NoiseDissolve",
+      "title": "NoiseDissolve",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/NoiseDissolve.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/NoiseDissolve.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/NoiseDissolve.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Overexposure",
+      "title": "Overexposure",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Overexposure.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Overexposure.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Overexposure.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:PerlinDissolve",
+      "title": "PerlinDissolve",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PerlinDissolve.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PerlinDissolve.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PerlinDissolve.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Pinwheel",
+      "title": "Pinwheel",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pinwheel.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pinwheel.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pinwheel.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Pixelize",
+      "title": "Pixelize",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pixelize.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pixelize.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Pixelize.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:PolkaDotsCurtain",
+      "title": "PolkaDotsCurtain",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PolkaDotsCurtain.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PolkaDotsCurtain.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PolkaDotsCurtain.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:PowerKaleido",
+      "title": "PowerKaleido",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PowerKaleido.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PowerKaleido.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/PowerKaleido.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RadialWipe",
+      "title": "RadialWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RadialWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RadialWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RadialWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RandomSquares",
+      "title": "RandomSquares",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RandomSquares.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RandomSquares.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RandomSquares.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RectangleCover",
+      "title": "RectangleCover",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleCover.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleCover.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleCover.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RectangleIris",
+      "title": "RectangleIris",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleIris.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleIris.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RectangleIris.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Revolve",
+      "title": "Revolve",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Revolve.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Revolve.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Revolve.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Ripple",
+      "title": "Ripple",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Ripple.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Ripple.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Ripple.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Rolls",
+      "title": "Rolls",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Rolls.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Rolls.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Rolls.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RotateFade",
+      "title": "RotateFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RotateScaleFade",
+      "title": "RotateScaleFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:RotateScaleVanish",
+      "title": "RotateScaleVanish",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleVanish.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleVanish.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/RotateScaleVanish.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ScaleIn",
+      "title": "ScaleIn",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ScaleIn.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ScaleIn.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ScaleIn.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Shatter",
+      "title": "Shatter",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Shatter.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Shatter.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Shatter.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SimpleFlip",
+      "title": "SimpleFlip",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleFlip.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleFlip.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleFlip.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SimpleZoom",
+      "title": "SimpleZoom",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoom.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoom.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoom.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SimpleZoomOut",
+      "title": "SimpleZoomOut",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoomOut.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoomOut.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SimpleZoomOut.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SlideAwayRight",
+      "title": "SlideAwayRight",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SlideAwayRight.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SlideAwayRight.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SlideAwayRight.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Slides",
+      "title": "Slides",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Slides.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Slides.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Slides.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideInHorizontal",
+      "title": "SplitSlideInHorizontal",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInHorizontal.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInHorizontal.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInHorizontal.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideInOutHorizontal",
+      "title": "SplitSlideInOutHorizontal",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutHorizontal.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutHorizontal.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutHorizontal.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideInOutVertical",
+      "title": "SplitSlideInOutVertical",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutVertical.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutVertical.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInOutVertical.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideInVertical",
+      "title": "SplitSlideInVertical",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInVertical.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInVertical.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideInVertical.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideOutHorizontal",
+      "title": "SplitSlideOutHorizontal",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutHorizontal.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutHorizontal.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutHorizontal.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SplitSlideOutVertical",
+      "title": "SplitSlideOutVertical",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutVertical.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutVertical.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SplitSlideOutVertical.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:SquaresWipe",
+      "title": "SquaresWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SquaresWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SquaresWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/SquaresWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Squeeze",
+      "title": "Squeeze",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Squeeze.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Squeeze.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Squeeze.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:StarWipe",
+      "title": "StarWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StarWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StarWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StarWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:StaticFade",
+      "title": "StaticFade",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticFade.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticFade.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticFade.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:StaticWipe",
+      "title": "StaticWipe",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticWipe.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticWipe.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StaticWipe.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:StereoViewer",
+      "title": "StereoViewer",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StereoViewer.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StereoViewer.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StereoViewer.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:StripDatamoshGlitch",
+      "title": "StripDatamoshGlitch",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StripDatamoshGlitch.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StripDatamoshGlitch.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/StripDatamoshGlitch.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Swap",
+      "title": "Swap",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swap.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swap.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swap.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Swirl",
+      "title": "Swirl",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swirl.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swirl.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Swirl.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:TangentMotionBlur",
+      "title": "TangentMotionBlur",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TangentMotionBlur.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TangentMotionBlur.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TangentMotionBlur.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:TilesWave",
+      "title": "TilesWave",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TilesWave.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TilesWave.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TilesWave.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:TopBottom",
+      "title": "TopBottom",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TopBottom.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TopBottom.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TopBottom.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:TvLostSignal",
+      "title": "TvLostSignal",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvLostSignal.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvLostSignal.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvLostSignal.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:TvStatic",
+      "title": "TvStatic",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvStatic.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvStatic.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/TvStatic.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:UndulatingBurnOut",
+      "title": "UndulatingBurnOut",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/UndulatingBurnOut.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/UndulatingBurnOut.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/UndulatingBurnOut.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:VerticalClose",
+      "title": "VerticalClose",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalClose.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalClose.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalClose.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:VerticalOpen",
+      "title": "VerticalOpen",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalOpen.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalOpen.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/VerticalOpen.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WaterDrop",
+      "title": "WaterDrop",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WaterDrop.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WaterDrop.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WaterDrop.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:Wind",
+      "title": "Wind",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Wind.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Wind.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Wind.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WindowBlinds",
+      "title": "WindowBlinds",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowBlinds.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowBlinds.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowBlinds.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WindowSlices",
+      "title": "WindowSlices",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowSlices.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowSlices.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WindowSlices.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WipeDown",
+      "title": "WipeDown",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeDown.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeDown.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeDown.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WipeLeft",
+      "title": "WipeLeft",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeLeft.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeLeft.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeLeft.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WipeRight",
+      "title": "WipeRight",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeRight.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeRight.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeRight.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:WipeUp",
+      "title": "WipeUp",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeUp.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeUp.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/WipeUp.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ZoomInCircles",
+      "title": "ZoomInCircles",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInCircles.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInCircles.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInCircles.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ZoomInOut",
+      "title": "ZoomInOut",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInOut.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInOut.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomInOut.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ZoomWipeLeft",
+      "title": "ZoomWipeLeft",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeLeft.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeLeft.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeLeft.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "gl:ZoomWipeRight",
+      "title": "ZoomWipeRight",
+      "categories": [
+        "transition"
+      ],
+      "kind": "shader-source",
+      "source_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeRight.glsl",
+      "fetch_url": "https://raw.githubusercontent.com/gl-transitions/gl-transitions/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeRight.glsl",
+      "license": "CHECK_FILE_HEADER",
+      "license_url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/ZoomWipeRight.glsl",
+      "availability": "adaptation-required",
+      "method": "读取文件头许可，WebGL适配，渲染代表转场后接入；非原生拖入组件",
+      "verified": "upstream tree path; not individually rendered"
+    },
+    {
+      "id": "font:NotoSansSC",
+      "title": "NotoSansSC · 中文可变字体",
+      "categories": [
+        "font"
+      ],
+      "kind": "font",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/OFL.txt",
+      "availability": "local-file",
+      "local_key": "Fonts/NotoSansSC/NotoSansSC.ttf",
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "method": "@font-face 本地加载；逐片检查字形、真实字重和可读性",
+      "verified": "downloaded/hash/license; prior design-lab glyph coverage checked"
+    },
+    {
+      "id": "font:NotoSerifSC",
+      "title": "NotoSerifSC · 中文可变字体",
+      "categories": [
+        "font"
+      ],
+      "kind": "font",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/OFL.txt",
+      "availability": "local-file",
+      "local_key": "Fonts/NotoSerifSC/NotoSerifSC.ttf",
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "method": "@font-face 本地加载；逐片检查字形、真实字重和可读性",
+      "verified": "downloaded/hash/license; prior design-lab glyph coverage checked"
+    },
+    {
+      "id": "font:zcoolxiaowei",
+      "title": "站酷小薇 · 中文宋体",
+      "categories": [
+        "font"
+      ],
+      "kind": "font",
+      "source_url": "https://github.com/google/fonts/blob/main/ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/zcoolxiaowei/OFL.txt",
+      "availability": "remote-download",
+      "method": "按该精确TTF入口按需下载并保存OFL；本次下载超时，未装成本地字体",
+      "verified": "official file listing; download timed out; glyph checks pending"
+    },
+    {
+      "id": "font:mashanzheng",
+      "title": "马善政 · 毛笔展示",
+      "categories": [
+        "font"
+      ],
+      "kind": "font",
+      "source_url": "https://github.com/google/fonts/blob/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+      "fetch_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+      "license": "OFL-1.1",
+      "license_url": "https://github.com/google/fonts/blob/main/ofl/mashanzheng/OFL.txt",
+      "availability": "remote-download",
+      "method": "按该精确TTF入口按需下载并保存OFL；本次下载超时，未装成本地字体",
+      "verified": "official file listing; download timed out; glyph checks pending"
+    },
+    {
+      "id": "nasa:GSFC_20140211_LDCM_m11481_Orbit",
+      "title": "GSFC_20140211_LDCM_m11481_Orbit",
+      "categories": [
+        "video",
+        "official"
+      ],
+      "kind": "source-video",
+      "source_url": "https://images.nasa.gov/details/GSFC_20140211_LDCM_m11481_Orbit",
+      "license": "NASA media usage guidelines; informational test",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "availability": "local-file",
+      "local_key": "Video/NASA/GSFC_20140211_LDCM_m11481_Orbit.mp4",
+      "sha256": "5a6e3f8ade90020638924ee472eb553224cb657ad1832b9a842b1a423a870e55",
+      "method": "NASA轨道模拟原片；从不同实际镜头选择并登记片段身份；不重复用同镜头，不暗示NASA背书",
+      "verified": "downloaded/hash/decoded and sampled; full source viewing pending"
+    },
+    {
+      "id": "nasa:ARC-20190801-AAV3211-OCSD-OrbitalManeuver-NASAWeb",
+      "title": "ARC-20190801-AAV3211-OCSD-OrbitalManeuver-NASAWeb",
+      "categories": [
+        "video",
+        "official"
+      ],
+      "kind": "source-video",
+      "source_url": "https://images.nasa.gov/details/ARC-20190801-AAV3211-OCSD-OrbitalManeuver-NASAWeb",
+      "license": "NASA media usage guidelines; informational test",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "availability": "local-file",
+      "local_key": "Video/NASA/ARC-20190801-AAV3211-OCSD-OrbitalManeuver-NASAWeb.mp4",
+      "sha256": "463f046ee7d1040e0af7992cdeae4104e82c0f12537cfdda74f039240dc7f822",
+      "method": "NASA轨道模拟原片；从不同实际镜头选择并登记片段身份；不重复用同镜头，不暗示NASA背书",
+      "verified": "downloaded/hash/decoded and sampled; full source viewing pending"
+    }
+  ],
+  "errors": [
+    "MaShanZheng and ZCOOLXiaoWei font downloads timed out: exact remote entries retained",
+    "Lucide music.svg absent at pinned commit: not installed or indexed as available"
+  ]
+}
